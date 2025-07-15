@@ -17,6 +17,20 @@ Cultures of *R. pomeroyi* were donated by Dr. Mary Ann Moran (UGA) and this proj
 # This Repository
 ## Directory Structure
 
+- *data*: Folder containing folders with input files for the scripts used for data analysis
+    - *growth_OD600*: Folder containing raw data files from OD600 measurements of *R.pomeroyi* DSS-3 cells grown in six different media conditions. Each file is named based on the media that the cells were grown in. ACD = AC Difco marine broth; ProMM = ProMM minimal medium; +Pr: addition of 87µM Casein to the medium; -N: No inorganic nitrogen (NH4Cl) added; -C: No carbon sources added.
+        - ACD.txt
+        - ProMM.txt
+        - ProMM-N-C+Pr.txt
+        - ProMM-N+C+Pr.txt
+        - ProMM+N-C+Pr.txt
+        - ProMM+Pr.txy
+    - *growth_FCM*: Folder containing raw data files from flow cytometry cell counts
+    - *protease_kinetics*: Folder containing files of fluorescence measurements of FTC-Casein fluorescence upon degradation of cellular proteases
+    - *proteomics*: Folder containing input files of normalized peak areas from after spectral processing in Fragpipe and file fomatting
+- *scripts*: Folder containing scripts used for the analysis of this dataset
+- *figures*: Folder containing figures resulting from the analysis of this dataset using the workflow provided
+ 
 ## Raw data availability
 Raw data is available upon request to fstemmer@mit.edu. Pre-processing steps are described below under *Material and Methods > Spectral Processing* and the resulting files shared in .txt format in this repository
 
