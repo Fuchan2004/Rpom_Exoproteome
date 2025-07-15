@@ -42,9 +42,12 @@ This section will mainly focus on the computational analysis conducted in this s
 <img width="1243" height="698" alt="Screenshot 2025-07-15 at 14 49 42" src="https://github.com/user-attachments/assets/db16bbb9-d598-4981-b4d9-465f840ca3f9" />
 
 ## Growth Rates
+For the analysis of growth rates, you will need the files in data/growth_OD600/ as well as the jupyter notebook 'growth.ipynb' which can be found in the scripts/ folder. Follow the steps outlined in the jupyter notebook to generate:
+* Growth curves: OD600 vs. time; ln(OD600) vs. time
+* Bar plots of growth rates
+* Box plots of growth rates with statistical analysis using ANOVA 
 
-
-## Protease Acitivity
+## Protease Activity
 
 ## Spectral Processing
 Tryptic peptides were analyzed on a Thermo Scientific Orbitrap Astral mass spectrometer using Data Independent Acquisition (DIA). 
