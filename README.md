@@ -30,6 +30,7 @@ Cultures of *R. pomeroyi* were donated by Dr. Mary Ann Moran (UGA) and this proj
     - *proteomics*: Folder containing input files of normalized peak areas from after spectral processing in Fragpipe and file fomatting
 - *scripts*: Folder containing scripts used for the analysis of this dataset
 - *figures*: Folder containing figures resulting from the analysis of this dataset using the workflow provided
+- environment.yml: File containing information about the python environment used for running this code
  
 ## Raw data availability
 Raw data is available upon request to fstemmer@mit.edu. Pre-processing steps are described below under *Material and Methods > Spectral Processing* and the resulting files shared in .txt format in this repository
@@ -40,6 +41,17 @@ Raw data is available upon request to fstemmer@mit.edu. Pre-processing steps are
 This section will mainly focus on the computational analysis conducted in this study. Details about lab methods can be found in the original publication. A summary of the wetlab steps is summarized on following flow chart
 
 <img width="1243" height="698" alt="Screenshot 2025-07-15 at 14 49 42" src="https://github.com/user-attachments/assets/db16bbb9-d598-4981-b4d9-465f840ca3f9" />
+
+All code is written in python. First open terminal and clone this repository. 
+1. Move to the repository in terminal and create the python environment from the envs.yml file
+```
+conda create -f environment.yml
+```
+2. The name of the just created environment is `exoprot`. Activate the environment
+```
+conda activate exoprot
+```
+Your prompt should have changed from (base) to (exoprot).
 
 ## Growth Rates
 For the analysis of growth rates, you will need the files in data/growth_OD600/ as well as the jupyter notebook 'growth.ipynb' which can be found in the scripts/ folder. Follow the steps outlined in the jupyter notebook to generate:
