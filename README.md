@@ -98,11 +98,15 @@ The generated mass spectra from DIA analysis of *R. pomeroyi* DSS-3 were searche
 * Protein groups were created based on the parsimony principle and grouped if peptides corresponded well to more than one protein. 
 
 ## Proteomes - Data Visualization and Statistical Analysis
-From FragPipe you obtain a file called 'report.pg_matrix.tsv' containing the normalized DIA data. The column names are as follows: 
-`Protein.Group / Protein.Ids / Protein.Names / Genes / Frist.Protein.Description / Sample 1 / Sample 2 / etc.` However, for the below script to work, make sure that: 
-    1) there is only one sample (in triplicates) present in your file. Thus the file has 8 columns with the last three being `Sample_1_1 / Sample_1_2 / Sample_1_3 `.
-    2) the file name has following format: `DATE_STRAIN_MEDIUM_GROWTHPHASE.txt`
-    3) the annotations are listed under `Protein.Ids.` If there are no annotions but accession numbers instead, use the script `annotate.py` to replace accession numbers with the annotations.
+From FragPipe you obtain a file called 'report.pg_matrix.tsv' containing the normalized DIA data. The column names are as follows:
+
+`Protein.Group / Protein.Ids / Protein.Names / Genes / Frist.Protein.Description / Sample 1 / Sample 2 / etc.` 
+
+However, for the below script to work, make sure that: 
+1) there is only one sample (in triplicates) present in your file. Thus the file has 8 columns with the last three being `Sample_1_1 / Sample_1_2 / Sample_1_3 `.
+2) the file name has following format: `DATE_STRAIN_MEDIUM_GROWTHPHASE.txt`
+3) the annotations are listed under `Protein.Ids.` If there are no annotions but accession numbers instead, use the script `annotate.py` to replace accession numbers with the annotations.
+
 **The input file provided in this repository for the data of DSS-3 is already in the correct format.**
 
 ### Volcano Plots
@@ -130,34 +134,34 @@ Output files will have the extension `_annotated.txt`, and are saved in the same
 
 #### 3) Statistics
 Statistical analyses of the proteomics output are essential for gaining confidence in our data. We will use the script `scripts/fragpipe/statistics-fragpipe_multipletests.py` to conduct statistical analyses on our fragpipe outputs. In summary the provided scripts will:
-    1. Combine dataframes by Accession Number
-    2. Calculate means and standard deviations
-    3. Determine log2 fold changes
-    4. Calculate p-values using user-specified statistical tests
-        * Available tests: t-test, mannwhitneyu, wilcoxon, kruskal, f_oneway, ttest_rel, (default is t-test)
-        * Multiple test correction: bonferroni, fdr_bh, None (default is None)
-    5. Export the results as *.txt files
+1. Combine dataframes by Accession Number
+2. Calculate means and standard deviations
+3. Determine log2 fold changes
+4. Calculate p-values using user-specified statistical tests
+* Available tests: t-test, mannwhitneyu, wilcoxon, kruskal, f_oneway, ttest_rel, (default is t-test)
+* Multiple test correction: bonferroni, fdr_bh, None (default is None)
+5. Export the results as *.txt files
 
 _Kinds of statistical tests and what datatype they are used for_
-    A) Parametric Tests (Assume Normal Distribution)
-        * t-test: Student t-test, Compares two independent samples.
-        * ttest_rel: Paired t-test, Compares two related samples (e.g., before and after measurements).
-        * f_oneway: ANOVA, Compares more than two groups for equality of means.
-        * ttest_ind(..., equal_var=False): Welch's t-test, Variation of t-test, assumes unequal variances.
-    B) Non-Parametric Tests (Assume no Normal Distribution)
-        * mannwhitneyu: Mann-Whitney-U test, Compares two independent samples; detects differences in distribution.
-        * wilcoxon: Wilcoxon signed rank, Compares two related samples; detects differences in medians.
-        * kruskal: Kruskal Wallis test, Compares more than two groups (non-parametric version of ANOVA).
+A) Parametric Tests (Assume Normal Distribution)
+* t-test: Student t-test, Compares two independent samples.
+* ttest_rel: Paired t-test, Compares two related samples (e.g., before and after measurements).
+* f_oneway: ANOVA, Compares more than two groups for equality of means.
+* ttest_ind(..., equal_var=False): Welch's t-test, Variation of t-test, assumes unequal variances.
+B) Non-Parametric Tests (Assume no Normal Distribution)
+* mannwhitneyu: Mann-Whitney-U test, Compares two independent samples; detects differences in distribution.
+* wilcoxon: Wilcoxon signed rank, Compares two related samples; detects differences in medians.
+* kruskal: Kruskal Wallis test, Compares more than two groups (non-parametric version of ANOVA).
         
 _Recommendations for Multiple Testing Correction_
 When performing many statistical tests simultaneously (e.g., calculating p-values for thousands of proteins in your proteomics data), the probability of obtaining false positives increases. This is known as the multiple testing problem. Multiple testing correction reduces this issue by adjusting the p-values to account for the number of tests performed, ensuring that the false discovery rate (FDR) or family-wise error rate (FWER) is controlled.
 
 _Common Multiple Testing Correction Methods and when to use them_:
-    * bonferroni: Bonferroni correction (most stringent), Controls the FWER but can be overly conservative.
-    * fdr_bh: Benjamini-Hochberg correction, Correction most widely used in omics data, Adjusts for the False Discovery Rate (FDR). More powerful than Bonferroni for large datasets.
-    * fdr_by: Benjamini-Yekutieli correction, A more conservative version of fdr_bh, applicable when test results are dependent.
-    * holm: Holm correction, Less conservative than Bonferroni.
-    * sidak: correction: Similar to Bonferroni but slightly less stringent.
+* bonferroni: Bonferroni correction (most stringent), Controls the FWER but can be overly conservative.
+* fdr_bh: Benjamini-Hochberg correction, Correction most widely used in omics data, Adjusts for the False Discovery Rate (FDR). More powerful than Bonferroni for large datasets.
+* fdr_by: Benjamini-Yekutieli correction, A more conservative version of fdr_bh, applicable when test results are dependent.
+* holm: Holm correction, Less conservative than Bonferroni.
+* sidak: correction: Similar to Bonferroni but slightly less stringent.
 
 To run pairwise statistics run following line in your terminal, replacing the brackets with the files that you would like to compare and choosing the appropriate statistical test and multiple test correction:
 
