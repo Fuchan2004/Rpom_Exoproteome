@@ -7,7 +7,7 @@ This repository contains information, metadata, and analysis steps for the Maste
 *Corresponding Author*: Fadime R. Stemmer (fstemmer@mit.edu)
 
 ## Abstract
-Nitrogen-rich proteinaceous compounds are a key component of surface and upper mesopelagic particulate organic matter, and their rapid degradation by heterotrophic bacteria is an important process in releasing bioavailable nitrogen when other nitrogen containing substrates are deficient. Heterotrophs encode a wide variety of hydrolytic enzymes and nutrient transporters, which provide them with the ability to sustain nutrient stresses and inhabit protein-rich niche habitats such as sinking or suspended particles. Despite their important contribution to the oceanic nitrogen cycle, and marine biogeochemical cycles, the exact protein-level response of heterotrophic bacteria to nitrogen limitation in these environments remains unknown. In this study, *Ruegeria pomeroyi* strain DSS-3, a coastal marine heterotrophic bacterium, served as model organism to investigate the shift in protein production and secretion upon nitrogen limitation in the presence of extracellular protein. We tie these observations to extracellular protease rates determined from a fluorescence-based proteolysis assay. Our analyses reveal an increase in extracellular protease activity due to increased transport of these enzymes through the type 1 secretion system into the periplasmic and extracellular space, in response to nitrogen deficiency in DSS-3. Increased amino acid and oligopeptide uptake capabilities as well as higher abundance of amino acid dehydrogenases in the intracellular proteome further highlight this alternative process heterotrophic bacteria employ to challenge nitrogen limitation. Our study contributes to a better understanding of adaptation strategies of marine heterotrophic bacteria to protein-rich and nitrogen-limited niches, such as sinking and suspended particulate organic matter.
+Nitrogen-rich proteinaceous compounds are a key component of surface and upper mesopelagic particulate organic matter, and their rapid degradation by heterotrophic bacteria is an important process in releasing bioavailable nitrogen when other nitrogen containing substrates are deficient. Heterotrophs encode a wide variety of hydrolytic enzymes and nutrient transporters, which provide them with the ability to sustain nutrient stresses and inhabit protein-rich niche habitats such as sinking or suspended particles. Despite their important contribution to the oceanic nitrogen cycle, and marine biogeochemical cycles, the exact protein-level response of heterotrophic bacteria to nitrogen limitation in these environments remains unknown. In this study, Ruegeria pomeroyi strain DSS-3, a marine heterotrophic bacterium, served as model organism to investigate the shift in protein expression and secretion upon nitrogen limitation in the presence of extracellular protein. We tie these observations to extracellular protease rates determined from a fluorescence-based proteolysis assay. Our analyses reveal an increase in extracellular protease activity in response to nitrogen deficiency in DSS-3, due to increased production and secretion of type 1 secretion system dependent proteolytic enzymes into the extracellular environment. We found serine-, and metalloproteases to be important for periplasmic proteolysis, and propose an essential role for metalloproteases in the acquisition of proteinaceous nitrogen. Increased amino acid and oligopeptide uptake capabilities as well as higher abundance of amino acid dehydrogenases in the intracellular proteome further highlight this alternative process heterotrophic bacteria employ to challenge nitrogen limitation. Our study contributes to a better understanding of adaptation strategies of marine heterotrophic bacteria to protein- rich and inorganic nitrogen-limited niches, such as sinking and suspended particulate organic matter.
 
 ## Acknowledgements and Funding
 Funding for this project was provided from the Simons Foundation, and the NSF Center Chemical Currencies of a Microbial Planet (C-CoMP). Cultures of *R. pomeroyi* were donated by Dr. Mary Ann Moran (UGA) and this project contributes to the mission of the NSF Center for Chemical Currencies of a Microbial Plants [C-CoMP](https://ccomp-stc.org/) 
@@ -53,12 +53,16 @@ conda activate exoprot
 Your prompt should have changed from (base) to (exoprot).
 
 ## Growth Rates
-For the analysis of growth rates, you will need the files in data/growth_OD600/ as well as the jupyter notebook 'growth.ipynb' which can be found in the scripts/ folder. Follow the steps outlined in the jupyter notebook to generate:
+For the analysis of growth rates, you will need the files in `data/growth_OD600/` as well as the jupyter notebook `growth.ipynb` which can be found in the `scripts/` folder. Follow the steps outlined in the jupyter notebook to generate:
 * Growth curves: OD600 vs. time; ln(OD600) vs. time
 * Bar plots of growth rates
 * Box plots of growth rates with statistical analysis using ANOVA 
 
 ## Protease Activity
+For the analysis of protease kinetics, you will need the files in `data/protease_kinetics/` as well as the jupyter notebook `proteasekinetics.ipynb` which can be found in the `scripts/` folder. Follow the steps outlined in the jupyter notebook to generate:
+* Fluorescence measurement curves: Fluorescence Intensity (FI) vs. time; Mean FI vs. time; Fluorescence Intensity (FI) polynomial fits vs. time
+* Michaelis Menten Kinetics
+* Box plots of bulk protease activity and biomass corrected protease activity with statistical analysis using ANOVA 
 
 ## Spectral Processing
 Tryptic peptides were analyzed on a Thermo Scientific Orbitrap Astral mass spectrometer using Data Independent Acquisition (DIA). 
@@ -94,14 +98,43 @@ The generated mass spectra from DIA analysis of *R. pomeroyi* DSS-3 were searche
 * Protein groups were created based on the parsimony principle and grouped if peptides corresponded well to more than one protein. 
 
 ## Proteomes - Data Visualization and Statistical Analysis
+From FragPipe you obtain a file called 'report.pg_matrix.tsv' containing the normalized DIA data. The column names are as follows: 
+`Protein.Group / Protein.Ids / Protein.Names / Genes / Frist.Protein.Description / Sample 1 / Sample 2 / etc.` However, for the below script to work, make sure that: 
+    1) there is only one sample (in triplicates) present in your file. Thus the file has 8 columns with the last three being `Sample_1_1 / Sample_1_2 / Sample_1_3 `.
+    2) the file name has following format: `DATE_STRAIN_MEDIUM_GROWTHPHASE.txt`
+    3) the annotations are listed under `Protein.Ids.` If there are no annotions but accession numbers instead, use the script `annotate.py` to replace accession numbers with the annotations.
+**The input file provided in this repository for the data of DSS-3 is already in the correct format.**
+
+### Volcano Plots
+To generate Volcano plots from our fragpipe raw data, we use the inputfiles in the folder `data/proteomics/raw/`. The data is not annotated with protein names, but rather contains the accession numbers. All scripts used for data analysis of the proteomes are provided in the `scripts/fragpipe/` folder. 
+
+Run following sequence of code to generate volcano plots from your data. 
+
+#### 1) Format inputfiles
+To format the output files to only extract information important for generating volcano plots. Run following code from the `Rpom_Exoproteome` folder:
+```
+python scripts/fragpipe/format_fragpipe_output.py ./data/proteomics/raw/
+```
+
+Output files will have the extension `_formatted.txt`, and are saved in the same folder as the raw files. 
+
+#### 2) Add Annotations
+Annotations from Uniprot were added to the raw data using the script `annotate.py`. It replaces Accession Numbers with Annotations in the column `Annotations`. We provide the annotations from Uniprot in the `data/annotations/` folder. 
+
+**NOTE: The script can only be used on the formatted proteome files that have the extension *_formatted.txt.**
+
+```
+python scripts/fragpipe/annotate.py data/annotations/DSS3_Uniprot.txt ./data/proteomics/raw/
+```
+Output files will have the extension `_annotated.txt`, and are saved in the same folder as the raw files. 
+
+#### 3) 
 
 ### Abundance Comparisons 
 
 ### Heatmaps
 
 ### NMDS
-
-### Volcano Plots
 
 ### Normalized peak area - Bar plots
 
