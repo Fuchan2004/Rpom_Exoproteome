@@ -1,0 +1,811 @@
+Significant_Overexpressed	Accession Number +	log2FC +	-log10_adj_p +	Significant_Underexpressed	Accession Number -	log2FC -	-log10_adj_p -	Zero_Condition_Overexpressed	Accession Zero +	Zero_Condition_Underexpressed	Accession Zero -
+								Chaperonin, 33 kDa	SPO0024	ErfK/YbiS/YcfS/YnhG family protein	SPO0031
+								NDP-polyphosphate phosphotransferase 1 (EC 2.7.4.-) (Polyphosphate kinase PPK2 1) (RpPPK2-1)	SPO0224	Twin-arginine translocation pathway signal	SPO0090
+Chromosome partitioning protein parB	SPO0004	2.346174690416689	2.017194045727517					Lysine dehydrogenase	SPO0234	Flagellar basal-body rod protein FlgC	SPO0181
+								DNA-binding response regulator PetR	SPO0251	Na/Pi-cotransporter family protein	SPO0209
+								UPF0301 protein SPO0296	SPO0296	Alkaline phosphatase, putative	SPO0260
+Protein GrpE (HSP-70 cofactor)	SPO0010	5.902031212972701	4.213967122927206					Uncharacterized protein	SPO0300	6,7-dimethyl-8-ribityllumazine synthase (DMRL synthase) (LS) (Lumazine synthase) (EC 2.5.1.78)	SPO0268
+								Glutamate/leucine/phenylalanine/valine dehydrogenase family protein	SPO0390	Negative transcriptional regulator	SPO0269
+								Periplasmic serine protease, DO/DeqQ family	SPO0514	Lipoprotein, putative	SPO0304
+								Pseudouridine synthase (EC 5.4.99.-)	SPO0516	Unknown	SPO0346a
+								ATP phosphoribosyltransferase (EC 2.4.2.17)	SPO0669	Citrate lyase, beta subunit (EC 4.1.3.34, EC 4.1.3.6)	SPO0352
+								Maleylacetoacetate isomerase (EC 5.2.1.2)	SPO0679	DUF1737 domain-containing protein	SPO0354
+								Monooxygenase family protein	SPO0682	von Willebrand factor type A domain protein	SPO0357
+								DNA-binding response regulator ChvI	SPO0710	Thioesterase family protein	SPO0440
+Chaperonin, 33 kDa	SPO0024	68.85720163370628	2.689512057804485					3-hydroxybutyryl-CoA dehydrogenase (EC 1.1.1.157)	SPO0717	Uncharacterized protein	SPO0546
+								Phenylacetic acid degradation protein PaaZ	SPO0735	Oxidoreductase, FAD-binding protein	SPO0567
+								Phenylacetic acid degradation protein, putative	SPO0752	Aminomethyl transferase family protein	SPO0635
+				ErfK/YbiS/YcfS/YnhG family protein	SPO0031	-67.98453026685254	5.292176344817128	Phenylacetic acid degradation protein PaaI	SPO0755	EF hand domain protein	SPO0636
+								Phenylacetic acid degradation protein PaaH	SPO0756	Sugar ABC transporter, permease protein	SPO0649
+								Branched-chain amino acid ABC transporter, permease protein	SPO0824	Xanthine dehydrogenase, B subunit (EC 1.17.1.4)	SPO0653
+								Polyphosphate kinase	SPO0883	Xanthine dehydrogenase, A subunit (EC 1.17.1.4)	SPO0654
+								Phenazine biosynthesis protein, PhzF family	SPO0897	N-acetyltaurine amidohydrolase	SPO0658
+3'(2'),5'-bisphosphate nucleotidase CysQ (EC 3.1.3.7) (3'(2'),5-bisphosphonucleoside 3'(2')-phosphohydrolase) (3'-phosphoadenosine 5'-phosphate phosphatase) (PAP phosphatase)	SPO0039	2.964023228307661	3.3153355666924234					Uncharacterized protein	SPO0899	Agmatinase, putative	SPO0678
+								GapR-like DNA-binding domain-containing protein	SPO1033	Glyoxalase family protein	SPO0684
+Chaperone protein DnaK (HSP70) (Heat shock 70 kDa protein) (Heat shock protein 70)	SPO0043	3.883616238125412	4.285134384889516					1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase 1 (EC 5.3.1.16) (Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase 1)	SPO1158	Lipoprotein	SPO0727
+								UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase (EC 6.3.2.13) (Meso-A2pm-adding enzyme) (Meso-diaminopimelate-adding enzyme) (UDP-MurNAc-L-Ala-D-Glu:meso-diaminopimelate ligase) (UDP-MurNAc-tripeptide synthetase) (UDP-N-acetylmuramyl-tripeptide synthetase)	SPO1182	Phenylacetic acid degradation protein PaaD	SPO0741
+								D-alanine--D-alanine ligase (EC 6.3.2.4) (D-Ala-D-Ala ligase) (D-alanylalanine synthetase)	SPO1201	4-carboxymuconolactone decarboxylase domain/alkylhydroperoxidase AhpD family core domain protein	SPO0760
+								Unknown	SPO1226a	2-dehydro-3-deoxygalactonokinase, putative	SPO0785
+								Alkylhydroperoxidase AhpD family core domain protein	SPO1255	NUDIX domain protein (EC 6.-.-.-)	SPO0803
+								Transcriptional regulator, GntR family	SPO1375	Amidohydrolase domain protein	SPO0819
+				ABC transporter, periplasmic substrate-binding protein	SPO0050	-3.3399138403607247	4.008724438007154	Pseudouridine synthase (EC 5.4.99.-)	SPO1408	Xanthine dehydrogenase family protein, small/large subunits	SPO0830
+								S4 domain protein	SPO1418	Xanthine dehydrogenase family protein, medium subunit	SPO0831
+								Aromatic 1,2-dioxygenase, alpha subunit	SPO1451	Cellulose-binding domain protein	SPO0844
+								Uridylate kinase (UK) (EC 2.7.4.22) (Uridine monophosphate kinase) (UMP kinase) (UMPK)	SPO1662	5-hydroxyisourate hydrolase (HIU hydrolase) (HIUHase) (EC 3.5.2.17)	SPO0871
+								Enoyl-CoA hydratase domain-containing protein 3, mitochondrial	SPO1687	Ureidoglycolate hydrolase (EC 3.5.1.116)	SPO0873
+								Homoserine O-acetyltransferase (HAT) (EC 2.3.1.31) (Homoserine transacetylase) (HTA)	SPO1729	Glycine cleavage system H protein	SPO0878
+Parvulin-like PPIase (Peptidyl-prolyl cis-trans isomerase plp) (Rotamase plp)	SPO0058	5.503192443722073	5.438270728101262					Branched-chain amino acid ABC transporter, ATP-binding protein	SPO1829	N-acetyl-gamma-glutamyl-phosphate reductase (AGPR) (EC 1.2.1.38) (N-acetyl-glutamate semialdehyde dehydrogenase) (NAGSA dehydrogenase)	SPO0964
+Arginine biosynthesis bifunctional protein ArgJ [Cleaved into: Arginine biosynthesis bifunctional protein ArgJ alpha chain; Arginine biosynthesis bifunctional protein ArgJ beta chain] [Includes: Glutamate N-acetyltransferase (EC 2.3.1.35) (Ornithine acetyltransferase) (OATase) (Ornithine transacetylase); Amino-acid acetyltransferase (EC 2.3.1.1) (N-acetylglutamate synthase) (AGSase)]	SPO0059	6.593709959039499	5.3279905810134585					Ribosomal RNA large subunit methyltransferase E (EC 2.1.1.166) (23S rRNA Um2552 methyltransferase) (rRNA (uridine-2'-O-)-methyltransferase)	SPO1858	Phosphate transporter	SPO0967
+Translation initiation factor IF-2	SPO0061	2.8239510537766086	3.935198716457309					Acrylyl-CoA reductase AcuI (EC 1.3.1.84) (Acryloyl-coenzyme A reductase)	SPO1914	Sulfur oxidation B protein	SPO0997
+								Phospho-2-dehydro-3-deoxyheptonate aldolase (EC 2.5.1.54)	SPO1942	Sulfur oxidation molybdopterin C protein	SPO0998
+Transcription termination/antitermination protein NusA	SPO0063	4.366402958747717	4.039261034452321					Guanylate kinase (EC 2.7.4.8) (GMP kinase)	SPO1945	Diheme cytochrome c SoxD	SPO0999
+								Histidine phosphotransferase ChpT C-terminal domain-containing protein	SPO1983	Metallo-beta-lactamase family protein	SPO1030
+								FeS assembly protein SufD	SPO2017	LysM domain protein	SPO1061
+								Metallo-beta-lactamase family protein	SPO2038	Dynamin N-terminal domain-containing protein	SPO1068
+								tRNA (cytidine/uridine-2'-O-)-methyltransferase TrmJ (EC 2.1.1.200) (tRNA (cytidine(32)/uridine(32)-2'-O)-methyltransferase) (tRNA Cm32/Um32 methyltransferase)	SPO2055	Bordetella uptake gene family protein	SPO1073
+								DSBA-like thioredoxin family protein	SPO2070	DUF1036 domain-containing protein	SPO1081
+								Xanthine-guanine phosphoribosyltransferase (XGPRT) (EC 2.4.2.-) (EC 2.4.2.22) (Xanthine phosphoribosyltransferase)	SPO2143	Choline sulfatase (EC 3.1.6.6)	SPO1083
+Ribosome hibernation promoting factor (HPF)	SPO0078	5.744370374034327	3.285642348531052					Anthranilate synthase component 1 (EC 4.1.3.27)	SPO2146	Lumazine-binding protein	SPO1084
+								Anthranilate synthase component II (EC 4.1.3.27)	SPO2149	Lipoprotein, putative	SPO1096
+								Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1) (AIR synthase) (AIRS) (Phosphoribosyl-aminoimidazole synthetase)	SPO2169	Diaminobutyric acid transaminase	SPO1136
+								3-hydroxyisobutyrate dehydrogenase (HIBADH) (EC 1.1.1.31)	SPO2213	Ectoine hydrolase	SPO1140
+				Twin-arginine translocation pathway signal	SPO0090	-68.97792753202829	3.290800846884039	Serine acetyltransferase (EC 2.3.1.30)	SPO2247	Outer membrane protein assembly factor BamD	SPO1206
+								Universal stress protein family protein	SPO2371	Lipoprotein, putative	SPO1250
+								Acetyltransferase, GNAT family	SPO2447	NDP-polyphosphate phosphotransferase 2 (EC 2.7.4.-) (Polyphosphate kinase PPK2 2) (RpPPK2-2)	SPO1256
+								Peptide chain release factor 1 (RF-1)	SPO2461	Lipoprotein	SPO1274
+								RNA helicase	SPO2478	Protein HflK	SPO1329
+								PUA domain-containing protein	SPO2520	Lipoprotein	SPO1331
+				Peptide/opine/nickel uptake family ABC transporter, periplasmic substrate-binding protein	SPO0101	-2.582050905301253	2.5332779142995596	Glutamate-ammonia ligase adenylyltransferase (EC 2.7.7.42)	SPO2523	Lipoprotein, putative	SPO1349
+Glycerol kinase (EC 2.7.1.30) (ATP:glycerol 3-phosphotransferase) (Glycerokinase) (GK)	SPO0104	2.2592759060098286	3.304319814348704					Acyl-CoA dehydrogenase famiy protein	SPO2538	Phosphoglucosamine mutase (EC 5.4.2.10)	SPO1364
+								Beta-lactamase, putative	SPO2592	Prephenate dehydrogenase, putative	SPO1379
+								Amidophosphoribosyltransferase (ATase) (EC 2.4.2.14) (Glutamine phosphoribosylpyrophosphate amidotransferase) (GPATase)	SPO2677	3-keto-5-aminohexanoate cleavage enzyme	SPO1400
+								Iron ABC transporter, ATP-binding protein, putative	SPO2689	Aminotransferase, class III	SPO1401
+								RND efflux pump membrane fusion protein barrel-sandwich domain-containing protein	SPO2718	Aminotransferase family protein	SPO1468
+								Uncharacterized protein	SPO2723	Isochorismatase family protein	SPO1471
+								GIY-YIG domain-containing protein	SPO2736	Quinoprotein ethanol dehydrogenase (EC 1.1.99.-)	SPO1508
+								Thymidylate kinase (EC 2.7.4.9) (dTMP kinase)	SPO2740	Twin-arginine translocation pathway signal sequence domain protein, putative	SPO1537
+								Diguanylate cyclase, putative	SPO2747	Trimethylamine N-oxide-binding protein (TMAO-binding protein)	SPO1548
+Murein endopeptidase	SPO0124	3.2155387502953854	3.695656974644634					biotin--[biotin carboxyl-carrier protein] ligase (EC 6.3.4.15)	SPO2762	Aminomethyl transferase family protein	SPO1592
+								NADH-quinone oxidoreductase subunit I (EC 7.1.1.-) (NADH dehydrogenase I subunit I) (NDH-1 subunit I)	SPO2770	Mandelate racemase/muconate lactonizing enzyme, putative	SPO1594
+								NADH-quinone oxidoreductase subunit C (EC 7.1.1.-) (NADH dehydrogenase I subunit C) (NDH-1 subunit C)	SPO2784	Methanethiol oxidase (EC 1.8.3.4)	SPO1643
+				Cytochrome c family protein	SPO0130	-2.00122834834231	3.0098896566926605	Enoyl-CoA hydratase/isomerase family protein	SPO2787	Oligopeptide/dipeptide ABC transporter, periplasmic substrate-binding protein	SPO1647
+								BolA protein, truncation	SPO2849	Dihydrodipicolinate synthase family protein	SPO1701
+								CobW	SPO2862	Mannonate dehydratase (EC 4.2.1.8) (D-mannonate hydro-lyase)	SPO1723
+								Precorrin-8X methylmutase (EC 5.4.99.61)	SPO2865	Lipoprotein	SPO1735
+								Thioesterase family protein	SPO2911	ChrR-like cupin domain-containing protein	SPO1775
+								Hydrolase, alpha/beta fold family	SPO2943	Adenylate kinase (AK) (EC 2.7.4.3) (ATP-AMP transphosphorylase) (ATP:AMP phosphotransferase) (Adenylate monophosphate kinase)	SPO1812
+								Ser/Thr protein phosphatase family protein	SPO2953	Sugar ABC transporter, periplasmic sugar-binding protein	SPO1820
+								Aspartokinase (EC 2.7.2.4)	SPO3035	Glucose/Sorbosone dehydrogenase domain-containing protein	SPO1940
+								Oxidoreductase, short-chain dehydrogenase/reductase family	SPO3051	Lipoprotein	SPO1997
+Enoyl-CoA hydratase (EC 4.2.1.17)	SPO0147	4.656608170768179	5.773735928634374					Hydrolase, alpha/beta fold family	SPO3157	Lipoprotein, putative	SPO2044
+Small ribosomal subunit protein bS20 (30S ribosomal protein S20)	SPO0148	2.5409896676968073	2.751019175015804					Ribose-phosphate pyrophosphokinase (RPPK) (EC 2.7.6.1) (5-phospho-D-ribosyl alpha-1-diphosphate synthase) (Phosphoribosyl diphosphate synthase) (Phosphoribosyl pyrophosphate synthase) (P-Rib-PP synthase) (PRPP synthase) (PRPPase)	SPO3159	ATPase	SPO2113
+Beta sliding clamp	SPO0150	5.916325902253901	4.285194977848928					Peptide deformylase (PDF) (EC 3.5.1.88) (Polypeptide deformylase)	SPO3217	EF-hand domain-containing protein	SPO2135
+								Pyridoxal-phosphate dependent enzyme family protein	SPO3341	Lipoprotein, putative	SPO2137
+								AMP nucleosidase (EC 3.2.2.4) (AMP nucleosidase)	SPO3342	Lipoprotein, putative	SPO2166
+								Thioredoxin	SPO3423	Imidazolonepropionase (EC 3.5.2.7) (Imidazolone-5-propionate hydrolase)	SPO2191
+								RNA pyrophosphohydrolase (EC 3.6.1.-) ((Di)nucleoside polyphosphate hydrolase)	SPO3585	Glyoxalase family protein	SPO2215
+								Acetyltransferase, GNAT family	SPO3628	Methyltransferase type 11 domain-containing protein	SPO2220
+				Oxidoreductase molybdopterin-binding domain-containing protein	SPO0162	-4.900983954641797	3.924388913072086	7-alpha-hydroxysteroid dehydrogenase, putative	SPO3654	Major tail protein, TP901-1 family	SPO2257
+								Transcriptional regulator, LacI family	SPO3684	Gene transfer agent protein	SPO2260
+								Glutathione-dependent peroxiredoxin (EC 1.11.1.27)	SPO3736	Phage prohead protease, HK97 family	SPO2262
+								Ribosome-binding factor A	SPO3835	Amino acid ABC transporter, periplasmic amino acid-binding protein	SPO2364
+								Type I secretion target repeat protein	SPO3839	VOC domain-containing protein	SPO2373
+								Photosynthetic apparatus regulatory protein RegA	SPO3865	Transthyretin/hydroxyisourate hydrolase domain-containing protein	SPO2386
+								Branched-chain amino acid ABC transporter, periplasmic branched-chain amino acid-binding protein, putative	SPOA0101	Oxidoreductase, molybdopterin-binding protein	SPO2389
+								DUF4440 domain-containing protein	SPOA0103	Carbon monoxide dehydrogenase, small subunit (EC 1.2.99.2)	SPO2398
+								DUF2948 domain-containing protein	SPOA0138	Dihydroxy-acid dehydratase, putative	SPO2410
+								Uncharacterized protein	SPOA0153	D-isomer specific 2-hydroxyacid dehydrogenase family protein	SPO2422
+								L-methionine gamma-lyase (EC 4.4.1.11)	SPOA0318	TRAP dicarboxylate transporter, DctP subunit, putative	SPO2433
+				Flagellar basal-body rod protein FlgC	SPO0181	-68.22097046267461	6.46296738300508	HAD-superfamily hydrolase, subfamily IB	SPOA0339	Agmatinase (EC 3.5.3.11)	SPO2464
+								Tryptophan 2,3-dioxygenase (TDO) (EC 1.13.11.11) (Tryptamin 2,3-dioxygenase) (Tryptophan oxygenase) (TO) (TRPO) (Tryptophan pyrrolase) (Tryptophanase)	SPOA0409	Glyoxalase family protein	SPO2466
+								3-carboxy-cis,cis-muconate cycloisomerase (EC 5.5.1.2)	SPOA0432	Lipoprotein, SmpA/OmlA family	SPO2490
+										Uncharacterized protein	SPO2499
+										Lipoprotein	SPO2513
+										6-aminohexanoate-cyclic-dimer hydrolase (EC 3.5.2.12)	SPO2527
+										Branched-chain amino acid ABC transporter, periplasmic branched-chain amino acid-binding protein, putative	SPO2534
+										Peptide/opine/nickel uptake family ABC transporter, periplasmic substrate-binding protein	SPO2554
+										Hydroxypyruvate isomerase, putative	SPO2563
+										Glyoxalase family protein	SPO2570
+										Porin domain-containing protein	SPO2610
+										Sec-independent protein translocase protein TatB	SPO2682
+										Sec-independent protein translocase protein TatA	SPO2683
+										5'-nucleotidase SurE (EC 3.1.3.5) (Nucleoside 5'-monophosphate phosphohydrolase)	SPO2688
+										Peptide chain release factor 3 (RF-3)	SPO2695
+										Protein NO VEIN C-terminal domain-containing protein	SPO2719
+										EF hand domain protein	SPO2757
+										Lipoprotein, putative	SPO2773
+										Phosphoglycolate phosphatase (EC 3.1.3.18)	SPO2796
+										Cytosine deaminase, putative	SPO2806
+										Dipeptidase (EC 3.4.-.-)	SPO2829
+										GlcG protein	SPO2838
+										DUF302 domain-containing protein	SPO2884
+				Na/Pi-cotransporter family protein	SPO0209	-68.21957182461948	4.289088811172608			Acetolactate synthase, catabolic, putative	SPO2885
+3-isopropylmalate dehydrogenase (EC 1.1.1.85) (3-IPM-DH) (Beta-IPM dehydrogenase) (IMDH)	SPO0210	4.118772753158781	5.09461367496062							Selenide,water dikinase, putative	SPO2899
+										Cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	SPO2930
+										Cupin type-2 domain-containing protein	SPO2931
+										YHS domain protein	SPO2972
+3-isopropylmalate dehydratase large subunit (EC 4.2.1.33) (Alpha-IPM isomerase) (IPMI) (Isopropylmalate isomerase)	SPO0216	2.1921098544004054	2.6970164541745887							D-aminoacyl-tRNA deacylase (DTD) (EC 3.1.1.96) (Gly-tRNA(Ala) deacylase)	SPO2992
+										X-Pro dipeptidyl-peptidase family protein	SPO2994
+Ribosomal silencing factor RsfS	SPO0219	5.005979848164102	4.750862006758527							Type I phosphodiesterase/nucleotide pyrophosphatase family protein	SPO3000
+										YARHG domain-containing protein	SPO3001
+										Dipeptide ABC transporter, periplasmic dipeptide-binding protein	SPO3049
+										Ribbon-helix-helix protein CopG domain-containing protein	SPO3064
+NDP-polyphosphate phosphotransferase 1 (EC 2.7.4.-) (Polyphosphate kinase PPK2 1) (RpPPK2-1)	SPO0224	69.5372958513326	2.7621756181058905							Biopolymer transport protein, ExbD/TolR family	SPO3111
+										Lipoprotein	SPO3124
+										YcjX family protein	SPO3142
+										Signal peptidase I (EC 3.4.21.89)	SPO3199
+										ATP synthase subunit b (ATP synthase F(0) sector subunit b) (ATPase subunit I) (F-type ATPase subunit b) (F-ATPase subunit b)	SPO3233
+				Quinone oxidoreductase, putative	SPO0232	-2.539753989559599	4.539531592210134			Asp/Glu/Hydantoin racemase family protein	SPO3241
+Lysine dehydrogenase	SPO0234	71.01750061084063	3.79241791901079							Branched-chain amino acid ABC transporter, periplasmic branched-chain amino acid binding protein, putative	SPO3291
+										GDSL-like lipase/acylhydrolase, putative	SPO3303
+										Uncharacterized protein	SPO3312
+				SN-glycerol-3-phosphate ABC transporter, periplasmic SN-glycerol-3-phosphate-binding protein	SPO0240	-3.2984213420027326	2.5701310266600306			Creatinase (EC 3.5.3.3)	SPO3327
+										Cys/Met metabolism PLP-dependent enzyme family protein	SPO3344
+										Aha1 domain protein	SPO3351
+										Dihydrodipicolinate reductase	SPO3377
+DNA-binding response regulator PetR	SPO0251	68.44456063836869	2.989945759422549							FAD dependent oxidoreductase/aminomethyl transferase	SPO3396
+										Enoyl-CoA hydratase/isomerase family protein	SPO3439
+										Flagellin	SPO3459
+										Spermidine/putrescine import ATP-binding protein PotA (EC 7.6.2.11)	SPO3472
+				Alkaline phosphatase, putative	SPO0260	-68.35057297802437	2.05301557443243			Lipoprotein	SPO3476
+										Unknown	SPO3498a
+Corrinoid adenosyltransferase (EC 2.5.1.17) (Cob(II)alamin adenosyltransferase) (Cob(II)yrinic acid a,c-diamide adenosyltransferase)	SPO0262	6.3739440246390915	4.495868695804989							Cupin type-2 domain-containing protein	SPO3518
+CaiB/BaiF family protein	SPO0264	4.278564585675803	4.361538361864745							Transcriptional regulator, LysR family	SPO3530
+										Zinc metallopeptidase, putative	SPO3546
+										Beta-lactamase, putative	SPO3636
+										Muticopper oxidase domain protein	SPO3671
+				6,7-dimethyl-8-ribityllumazine synthase (DMRL synthase) (LS) (Lumazine synthase) (EC 2.5.1.78)	SPO0268	-70.47418580747797	4.413742495060038			Endoribonuclease L-PSP family protein	SPO3680
+				Negative transcriptional regulator	SPO0269	-65.01236425685961	6.781723997169461			Branched-chain amino acid ABC transporter, periplasmic branched-chain amino acid-binding protein	SPO3705
+Glutathione S-transferase family protein	SPO0270	2.7281789444644304	2.794708350480291							VacJ lipoprotein, putative	SPO3727
+Ubiquinol-cytochrome c reductase iron-sulfur subunit (EC 7.1.1.8)	SPO0271	3.2744687530992955	3.510749887331634							Oligopeptide/dipeptide ABC transporter, ATP-binding protein	SPO3778
+										Sugar ABC transporter, periplasmic sugar-binding protein	SPO3787
+										SsrA-binding protein (Small protein B)	SPO3806
+										S-formylglutathione hydrolase (EC 3.1.2.12)	SPO3829
+										Glycosyltransferase 61 catalytic domain-containing protein	SPO3864
+										6-carboxy-5,6,7,8-tetrahydropterin synthase (EC 4.-.-.-)	SPO3903
+										Lipoprotein, putative	SPOA0005
+										3,4-dihydroxyphenylacetate 2,3-dioxygenase (EC 1.13.11.15)	SPOA0026
+										Protocatechuate 3,4-dioxygenase alpha subunit (EC 1.13.11.3)	SPOA0043
+										Protocatechuate 3,4-dioxygenase beta subunit (EC 1.13.11.3)	SPOA0044
+										4-carboxymuconolactone decarboxylase (EC 4.1.1.44)	SPOA0045
+										4-hydroxybenzoate hydroxylase (EC 1.14.13.2)	SPOA0046
+										Transcriptional regulator, LuxR family	SPOA0102
+										Fumarylacetoacetate hydrolase family protein	SPOA0116
+UPF0301 protein SPO0296	SPO0296	68.13900161588833	2.1934952916935986							Cyclase family protein	SPOA0127
+Acyl-CoA dehydrogenase family protein	SPO0298	3.4120064891264565	2.318932906403569							Serine--glyoxylate transaminase, putative	SPOA0144
+Uncharacterized protein	SPO0300	68.20268154341719	2.2581092652944643							TRAP transporter solute receptor, TAXI family	SPOA0166
+										Serine protease, subtilase family	SPOA0205
+										Glycine betaine/proline ABC transporter, periplasmic substrate-binding protein	SPOA0231
+				Lipoprotein, putative	SPO0304	-65.48389116325576	3.2636296013264157			Agmatinase (EC 3.5.3.11)	SPOA0235
+										Dihydrodipicolinate synthase family protein	SPOA0244
+										YncE family protein	SPOA0247
+Transcription elongation factor GreA (Transcript cleavage factor GreA)	SPO0312	5.618448211737315	3.544588916898272							TRAP dicarboxylate transporter, DctP subunit	SPOA0249
+										Methanethiol oxidase (MTO) (EC 1.8.3.4)	SPOA0269
+										TRAP dicarboxylate transporter, DctP subunit, putative	SPOA0280
+Electron transfer flavoprotein-ubiquinone oxidoreductase (ETF-QO) (EC 1.5.5.1)	SPO0316	4.391975880752666	3.9277347309538184							Branched-chain amino acid ABC transporter, periplasmic branched-chain amino acid-binding protein	SPOA0300
+TPR domain protein	SPO0317	3.052099414981056	2.3020655991835888							Propionate 3-nitronate monooxygenase	SPOA0325
+										2-dehydro-3-deoxyphosphogluconate aldolase (EC 4.1.2.14, EC 4.1.3.16)	SPOA0330
+										TRAP dicarboxylate family transporter, DctP subunit	SPOA0335
+										DNA-binding response regulator	SPOA0357
+										27kDa outer membrane protein	SPOA0362
+Acetoacetyl-CoA reductase (EC 1.1.1.36)	SPO0325	5.540075731871738	5.505428651622599							Spermidine/putrescine ABC transporter, periplasmic substrate-binding protein	SPOA0381
+Acetyl-CoA acetyltransferase (EC 2.3.1.9)	SPO0326	4.744785098625505	3.354182228090036								
+Thiol:disulfide interchange protein, putative	SPO0331	5.852196494482624	3.2412067848903408								
+Argininosuccinate lyase (ASAL) (EC 4.3.2.1) (Arginosuccinase)	SPO0332	4.834580421836941	3.205043795733596								
+				Dihydrolipoyl dehydrogenase (EC 1.8.1.4)	SPO0340	-3.5836334402486365	3.4010184976832942				
+Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex (EC 2.3.1.61) (2-oxoglutarate dehydrogenase complex component E2)	SPO0343	5.279834002748	2.6474345913153203								
+2-oxoglutarate dehydrogenase E1 component (EC 1.2.4.2) (Alpha-ketoglutarate dehydrogenase)	SPO0344	4.1972852547030515	5.262071553689442								
+Unknown	SPO0344a	2.528228598936185	3.3478678704723066								
+				Unknown	SPO0346a	-67.24866219654366	2.4545719664713315				
+				Citrate lyase, beta subunit (EC 4.1.3.34, EC 4.1.3.6)	SPO0352	-67.92054964095072	2.8270841002303397				
+				DUF1737 domain-containing protein	SPO0354	-70.20409664411022	4.618863101582556				
+				von Willebrand factor type A domain protein	SPO0357	-69.02192051276582	4.401312052684165				
+				Unknown	SPO0360a	-2.775513174655426	2.407983230690045				
+Type I secretion target repeat protein	SPO0362	9.960961784494152	3.984649824335355								
+DNA-binding protein, H-NS family	SPO0367	3.994854677744191	4.4384194207531165								
+Probable branched-chain-amino-acid aminotransferase (EC 2.6.1.42)	SPO0388	3.212048044234395	2.6838949651238058								
+Glutamate/leucine/phenylalanine/valine dehydrogenase family protein	SPO0390	68.62125419526343	2.9610988653316253								
+Tryptophan--tRNA ligase (EC 6.1.1.2) (Tryptophanyl-tRNA synthetase) (TrpRS)	SPO0392	3.0379467506086564	3.1990388575123285								
+Glutamate--tRNA ligase 1 (EC 6.1.1.17) (Glutamyl-tRNA synthetase 1) (GluRS 1)	SPO0430	5.169000455012671	2.212951316344037								
+Cold shock family protein	SPO0437	4.001540518075783	3.8112929312995								
+				Thioesterase family protein	SPO0440	-69.84682086439503	3.7896647402071775				
+Energy-dependent translational throttle protein EttA (EC 3.6.1.-) (Translational regulatory factor EttA)	SPO0446	3.503153062717042	4.311837503056362								
+				DUF1344 domain-containing protein	SPO0478	-2.1329548230583035	2.146285124523239				
+NADH-ubiquinone oxidoreductase family protein	SPO0482	5.17168161849861	6.173414186872125								
+				Large ribosomal subunit protein uL2 (50S ribosomal protein L2)	SPO0484	-2.992518418630548	3.788838385324196				
+				Small ribosomal subunit protein uS19 (30S ribosomal protein S19)	SPO0485	-2.6783480454218145	3.7931253011021058				
+				Large ribosomal subunit protein uL22 (50S ribosomal protein L22)	SPO0486	-2.969860649786211	2.068375326631574				
+Small ribosomal subunit protein uS3 (30S ribosomal protein S3)	SPO0487	4.61545652984242	6.757043867036152								
+Large ribosomal subunit protein uL16 (50S ribosomal protein L16)	SPO0488	3.905080673103504	4.588142717960321								
+				Large ribosomal subunit protein uL29 (50S ribosomal protein L29)	SPO0493	-3.955708750265526	4.456198770332203				
+				Large ribosomal subunit protein uL14 (50S ribosomal protein L14)	SPO0495	-2.1364977329839174	2.4724179831354673				
+Small ribosomal subunit protein uS14 (30S ribosomal protein S14)	SPO0498	3.236811481249412	3.510749887331634								
+				Small ribosomal subunit protein uS8 (30S ribosomal protein S8)	SPO0499	-2.595468162449502	4.29720737301841				
+Large ribosomal subunit protein uL6 (50S ribosomal protein L6)	SPO0500	4.606866636921721	2.537371029699646								
+Small ribosomal subunit protein uS5 (30S ribosomal protein S5)	SPO0502	3.928362951929999	3.67988059955628								
+Adenylate kinase (AK) (EC 2.7.4.3) (ATP-AMP transphosphorylase) (ATP:AMP phosphotransferase) (Adenylate monophosphate kinase)	SPO0507	4.108917234965516	2.564835524892438								
+Small ribosomal subunit protein uS13 (30S ribosomal protein S13)	SPO0509	4.5713244987081945	2.784949671334317								
+Small ribosomal subunit protein uS11 (30S ribosomal protein S11)	SPO0510	4.795065184097546	2.639210228812418								
+DNA-directed RNA polymerase subunit alpha (RNAP subunit alpha) (EC 2.7.7.6) (RNA polymerase subunit alpha) (Transcriptase subunit alpha)	SPO0511	5.869310932225382	2.960260436873677								
+Periplasmic serine protease, DO/DeqQ family	SPO0514	67.59128615843595	3.304319814348704								
+Pseudouridine synthase (EC 5.4.99.-)	SPO0516	68.9554175312535	3.4931050756599435								
+				Glutamate/glutamine/aspartate/asparagine ABC transporter, periplasmic substrate-binding protein	SPO0519	-2.783673579362906	3.427960464058601				
+Glutamate/glutamine/aspartate/asparagine ABC transporter, ATP-binding protein	SPO0522	6.5468764725519835	4.9791186429365295								
+				Uncharacterized protein	SPO0546	-67.08626015381637	4.230566050153989				
+Oligopeptide ABC transporter, periplasmic oligopeptide-binding protein	SPO0560	2.1741561216920746	2.836905380047345								
+				Oxidoreductase, FAD-binding protein	SPO0567	-66.13409670646159	4.05582895751251				
+Saccharopine dehydrogenase (EC 1.5.1.7)	SPO0601	5.966668731678275	5.593988828493448								
+				Sugar ABC transporter, periplasmic sugar-binding protein	SPO0608	-3.512475927161852	3.686992438585282				
+D-isomer specific 2-hydroxyacid dehydrogenase family protein	SPO0632	4.2932644321937605	3.5181960501775777								
+				Glutathione hydrolase proenzyme (EC 2.3.2.2) (EC 3.4.19.13) [Cleaved into: Glutathione hydrolase large chain; Glutathione hydrolase small chain]	SPO0633	-2.04450368419928	4.7511387406836425				
+				Aminomethyl transferase family protein	SPO0635	-69.92741963031776	3.7760554649200153				
+				EF hand domain protein	SPO0636	-65.81877711444754	2.6054368718409497				
+				Bmp family protein	SPO0648	-2.7742831004519553	4.932801508734203				
+				Sugar ABC transporter, permease protein	SPO0649	-65.07008530422614	2.579772796345408				
+				Xanthine dehydrogenase, B subunit (EC 1.17.1.4)	SPO0653	-67.32348537330056	3.6795088635471047				
+				Xanthine dehydrogenase, A subunit (EC 1.17.1.4)	SPO0654	-67.70159630358104	3.243863416523737				
+				N-acetyltaurine amidohydrolase	SPO0658	-68.34929455965016	2.730640703033709				
+ATP phosphoribosyltransferase (EC 2.4.2.17)	SPO0669	67.92913202819345	2.605015720450402								
+				Taurine--pyruvate aminotransferase (EC 2.6.1.77)	SPO0673	-2.603241234439465	3.900677967052343				
+				Taurine ABC transporter, periplasmic taurine-binding protein	SPO0674	-4.0410140882084296	3.665981225511185				
+				Agmatinase, putative	SPO0678	-68.39833205295871	2.5527695324827304				
+Maleylacetoacetate isomerase (EC 5.2.1.2)	SPO0679	69.54736510924387	2.2372070970825924								
+Monooxygenase family protein	SPO0682	69.50952361010991	4.023472987646586								
+				Glyoxalase family protein	SPO0684	-65.9450507785307	4.334841395772173				
+fumarylacetoacetase (EC 3.7.1.2)	SPO0685	2.6141088463806725	4.711757615035005								
+homogentisate 1,2-dioxygenase (EC 1.13.11.5)	SPO0686	4.691797940319286	4.193725342127559								
+Glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.-)	SPO0701	5.122798983374768	5.054419380855439								
+				Oligopeptide ABC transporter, periplasmic oligopeptide-binding protein	SPO0706	-3.2768737334044893	3.846606967545786				
+Phosphoenolpyruvate carboxykinase (ATP) (PCK) (PEP carboxykinase) (PEPCK) (EC 4.1.1.49)	SPO0709	3.8549167632924415	4.1887582651423845								
+DNA-binding response regulator ChvI	SPO0710	69.1537231215951	2.7057626707310645								
+3-hydroxybutyryl-CoA dehydrogenase (EC 1.1.1.157)	SPO0717	68.72839636292476	2.9984803829193662								
+Electron transfer flavoprotein, alpha subunit	SPO0719	4.836368423958985	4.160366439275002								
+Electron transfer flavoprotein subunit beta (Electron transfer flavoprotein small subunit)	SPO0720	6.727670654952825	4.319336168930799								
+				Lipoprotein	SPO0727	-67.57824966875906	2.3788034892134915				
+Unknown	SPO0728	6.255853117543697	5.659853683950366								
+Glycerol-3-phosphate dehydrogenase (EC 1.1.5.3)	SPO0732	3.5610837605875583	2.9942428218505523								
+Phenylacetic acid degradation protein PaaZ	SPO0735	69.74696160778996	3.123193252311327								
+				Phenylacetic acid degradation protein PaaD	SPO0741	-65.38451313018399	2.407295996730916				
+Phenylacetic acid degradation protein, putative	SPO0752	69.50551214167187	3.621111026276042								
+Phenylacetic acid degradation protein PaaI	SPO0755	70.23211102027982	4.307122911966108								
+Phenylacetic acid degradation protein PaaH	SPO0756	71.20762833508047	2.157594789461472								
+				4-carboxymuconolactone decarboxylase domain/alkylhydroperoxidase AhpD family core domain protein	SPO0760	-65.32464219038677	2.4262664742231506				
+Bordetella uptake gene family protein	SPO0769	2.606024116248986	4.208665123629522								
+				2-dehydro-3-deoxygalactonokinase, putative	SPO0785	-67.91018292539246	2.573650123569007				
+				M23/M37 peptidase/aminotransferase, class III	SPO0791	-2.983202725779758	3.381968120271786				
+30S ribosomal protein S1	SPO0802	6.035271577446337	4.726498432611517								
+				NUDIX domain protein (EC 6.-.-.-)	SPO0803	-67.42163150179736	2.5460270929205127				
+Large ribosomal subunit protein bL25 (50S ribosomal protein L25) (General stress protein CTC)	SPO0812	4.2885050933499125	3.0696902105149055								
+L-lactate dehydrogenase, putative	SPO0813	4.0216096612755	3.2696365831289387								
+				Amidohydrolase domain protein	SPO0819	-69.68750147369525	2.674213343135445				
+Branched-chain amino acid ABC transporter, permease protein	SPO0824	72.68078329284562	3.569678376762026								
+				Branched-chain amino acid ABC transporter, periplasmic substrate-binding protein	SPO0825	-3.6704913162781914	4.0495817030468855				
+				Xanthine dehydrogenase family protein, small/large subunits	SPO0830	-69.2369580924112	4.150181156721263				
+				Xanthine dehydrogenase family protein, medium subunit	SPO0831	-68.99764576664279	5.319970335739852				
+				Cellulose-binding domain protein	SPO0844	-67.88922330675682	5.319970335739852				
+				5-hydroxyisourate hydrolase (HIU hydrolase) (HIUHase) (EC 3.5.2.17)	SPO0871	-69.4647717770701	5.158642765118738				
+				Ureidoglycolate hydrolase (EC 3.5.1.116)	SPO0873	-66.20761083921057	3.337830761310452				
+Unknown	SPO0876a	4.709829464228692	5.415236284375233								
+				Glycine cleavage system H protein	SPO0878	-69.92398872491749	3.4883276666321255				
+Polyphosphate kinase	SPO0883	68.47886988640079	2.6503696707709317								
+Co-chaperonin GroES (10 kDa chaperonin) (Chaperonin-10) (Cpn10)	SPO0886	4.8997379035110304	5.824132656628008								
+Chaperonin GroEL (EC 5.6.1.7) (60 kDa chaperonin) (Chaperonin-60) (Cpn60)	SPO0887	4.777607578663552	5.411766043752029								
+Phenazine biosynthesis protein, PhzF family	SPO0897	68.04105045105342	3.7869122176700616								
+Uncharacterized protein	SPO0899	68.29587943227868	2.773047896098567								
+Adenylyl-sulfate kinase (EC 2.7.1.25) (APS kinase) (ATP adenosine-5'-phosphosulfate 3'-phosphotransferase) (Adenosine-5'-phosphosulfate kinase)	SPO0900	4.562140333341116	3.609144049235863								
+				D-isomer specific 2-hydroxyacid dehydrogenase family protein	SPO0913	-2.7132061269489203	4.129565023301402				
+Carbamoyl phosphate synthase large chain (EC 6.3.4.16) (EC 6.3.5.5) (Carbamoyl phosphate synthetase ammonia chain)	SPO0923	5.4096064548063865	5.964186518592343								
+Aspartate--tRNA(Asp/Asn) ligase (EC 6.1.1.23) (Aspartyl-tRNA synthetase) (AspRS) (Non-discriminating aspartyl-tRNA synthetase) (ND-AspRS)	SPO0926	4.770022770262229	5.09971967694135								
+Phosphomannomutase/phosphoglucomutase (EC 5.4.2.2, EC 5.4.2.8)	SPO0946	5.3988911624447375	5.877274038185799								
+2-dehydro-3-deoxyphosphooctonate aldolase (EC 2.5.1.55) (3-deoxy-D-manno-octulosonic acid 8-phosphate synthase) (KDO-8-phosphate synthase) (KDO 8-P synthase) (KDOPS) (Phospho-2-dehydro-3-deoxyoctonate aldolase)	SPO0947	4.36903555105754	4.462080087940759								
+Glutathione S-transferase family protein	SPO0953	2.1409357895422128	3.323734125970357								
+Ornithine carbamoyltransferase (OTCase) (EC 2.1.3.3)	SPO0963	2.9650077969045445	2.0495304849559615								
+				N-acetyl-gamma-glutamyl-phosphate reductase (AGPR) (EC 1.2.1.38) (N-acetyl-glutamate semialdehyde dehydrogenase) (NAGSA dehydrogenase)	SPO0964	-65.36200472284146	2.648667600164978				
+				Phosphate transporter	SPO0967	-65.56098724466507	2.014374011275488				
+				Copper-binding protein	SPO0976	-3.932679277043424	4.970381908900514				
+				Sulfur oxidation B protein	SPO0997	-70.06305276265505	4.2226262622228905				
+				Sulfur oxidation molybdopterin C protein	SPO0998	-66.68415329084513	2.299139049416695				
+				Diheme cytochrome c SoxD	SPO0999	-66.74935375938016	2.9343575034450087				
+ATP-dependent Clp protease ATP-binding subunit ClpX	SPO1004	5.36140686268874	6.909472583307395								
+				Metallo-beta-lactamase family protein	SPO1030	-69.40757420526356	3.556193898256205				
+GapR-like DNA-binding domain-containing protein	SPO1033	69.26095214816613	2.81670503636252								
+				LysM domain protein	SPO1061	-67.06772420237894	2.262150785698988				
+				Dynamin N-terminal domain-containing protein	SPO1068	-66.56424958424535	2.6112597477315016				
+Probable transcriptional regulatory protein SPO1072	SPO1072	3.2685648692886375	2.893561271000189								
+				Bordetella uptake gene family protein	SPO1073	-66.52406587058555	2.48837803010135				
+				DUF1036 domain-containing protein	SPO1081	-64.60036618617934	5.59624165840853				
+				Choline sulfatase (EC 3.1.6.6)	SPO1083	-68.63705605138632	3.1115069058960403				
+				Lumazine-binding protein	SPO1084	-64.81328795792278	2.747334590968718				
+				Lipoprotein, putative	SPO1096	-70.24591681980485	2.700563200694798				
+DUF4174 domain-containing protein	SPO1103	2.712494122079609	3.5731096285719155								
+methylmalonyl-CoA mutase (EC 5.4.99.2)	SPO1105	4.408398518497718	2.4563558088312623								
+				Diaminobutyric acid transaminase	SPO1136	-68.89010273076508	4.027062688294173				
+				Ectoine hydrolase	SPO1140	-69.02832538473223	3.2539811645344865				
+1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase 1 (EC 5.3.1.16) (Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase 1)	SPO1158	69.40265242636337	3.982896058981346								
+Pyruvate carboxylase (EC 6.4.1.1)	SPO1171	5.097697728705077	5.542777299600072								
+UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase (EC 6.3.2.13) (Meso-A2pm-adding enzyme) (Meso-diaminopimelate-adding enzyme) (UDP-MurNAc-L-Ala-D-Glu:meso-diaminopimelate ligase) (UDP-MurNAc-tripeptide synthetase) (UDP-N-acetylmuramyl-tripeptide synthetase)	SPO1182	67.68750147369525	2.437899347103224								
+UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10) (D-alanyl-D-alanine-adding enzyme)	SPO1183	3.356721526815958	2.6614515023338723								
+D-alanine--D-alanine ligase (EC 6.3.2.4) (D-Ala-D-Ala ligase) (D-alanylalanine synthetase)	SPO1201	70.1252491694833	2.080759539638917								
+Cell division protein FtsZ	SPO1204	3.9997343853657665	2.9169220137394913								
+				Outer membrane protein assembly factor BamD	SPO1206	-69.52941532819835	2.906907568493464				
+				Oligopeptide ABC transporter, periplasmic oligopeptide-binding protein	SPO1210	-2.00091050494716	3.600067963644417				
+Unknown	SPO1226a	68.77769928266683	4.5550260403972676								
+Type I secretion outer membrane protein, TolC family	SPO1240	4.061033587124399	3.2424439845119633								
+Elongation factor P (EF-P)	SPO1244	5.0115944529741725	2.7486433913452992								
+				Lipoprotein, putative	SPO1250	-65.2013874929756	4.143647926355379				
+DNA topoisomerase 4 subunit B (EC 5.6.2.2) (Topoisomerase IV subunit B)	SPO1253	4.408658856099357	2.868306766637858								
+Alkylhydroperoxidase AhpD family core domain protein	SPO1255	68.52375991115272	2.678244378551218								
+				NDP-polyphosphate phosphotransferase 2 (EC 2.7.4.-) (Polyphosphate kinase PPK2 2) (RpPPK2-2)	SPO1256	-69.66917482588866	3.7287357491333903				
+Aminotransferase (EC 2.6.1.-)	SPO1264	2.5172876088301432	2.6970164541745887								
+DNA-binding protein, putative	SPO1265	5.69315163336111	4.134997644034521								
+Flavin-dependent thymidylate synthase (FDTS) (EC 2.1.1.148) (FAD-dependent thymidylate synthase) (Thymidylate synthase ThyX) (TS) (TSase)	SPO1273	4.328498380220042	5.047514379120201								
+				Lipoprotein	SPO1274	-64.25971152263963	2.907837306371766				
+Cold shock family protein	SPO1275	3.1755937515290045	3.463586667364256								
+				Uncharacterized protein	SPO1281	-3.4808277265563894	3.349620820777355				
+Phasin, PhaP	SPO1293	3.303376864467045	4.107730715883033								
+				His/Glu/Gln/Arg/opine family ABC transporter, periplasmic His/Glu/Gln/Arg/opine family-binding protein	SPO1306	-3.810675280349216	3.0286592097097085				
+CTP synthase (EC 6.3.4.2) (Cytidine 5'-triphosphate synthase) (Cytidine triphosphate synthetase) (CTP synthetase) (CTPS) (UTP--ammonia ligase)	SPO1312	5.575238624510565	2.856976711110266								
+nitrile hydratase (EC 4.2.1.84)	SPO1314	5.442444535451576	3.9106665488296897								
+Nitrile hydratase subunit beta (NHase) (EC 4.2.1.84)	SPO1315	5.603443196639914	2.6715539961873795								
+Adenylosuccinate synthetase (AMPSase) (AdSS) (EC 6.3.4.4) (IMP--aspartate ligase)	SPO1318	5.851542209841455	4.170772688298268								
+				Glutathione reductase (GRase) (EC 1.8.1.7)	SPO1328	-2.929610672108602	3.481633303877456				
+				Protein HflK	SPO1329	-68.59560560789282	2.521719181357983				
+				Lipoprotein	SPO1331	-66.65682643346102	4.236166979776905				
+Phosphoribosylamine--glycine ligase (EC 6.3.4.13) (GARS) (Glycinamide ribonucleotide synthetase) (Phosphoribosylglycinamide synthetase)	SPO1345	6.1114427222586745	5.2139924089111425								
+				Lipoprotein, putative	SPO1349	-66.78733442375693	2.7842723378771623				
+Peptidoglycan binding domain protein	SPO1354	4.04700628143691	2.718602098664634								
+				Phosphoglucosamine mutase (EC 5.4.2.10)	SPO1364	-73.3179409297872	2.2164076651226283				
+Unknown	SPO1364a	5.115913318511149	3.359696716414146								
+				Ketol-acid reductoisomerase (NADP(+)) (KARI) (EC 1.1.1.86) (Acetohydroxy-acid isomeroreductase) (AHIR) (Alpha-keto-beta-hydroxylacyl reductoisomerase) (Ketol-acid reductoisomerase type 1) (Ketol-acid reductoisomerase type I)	SPO1366	-3.326462498958169	3.3470312351142724				
+Transcriptional regulator, GntR family	SPO1375	67.48120623515574	3.1261634888163212								
+Carbamoyl phosphate synthase small chain (EC 6.3.5.5) (Carbamoyl phosphate synthetase glutamine chain)	SPO1377	5.870092623110535	6.406476348500421								
+				Prephenate dehydrogenase, putative	SPO1379	-68.2237636775663	4.526423520110696				
+				3-keto-5-aminohexanoate cleavage enzyme	SPO1400	-65.82531767318211	2.8598277666729364				
+				Aminotransferase, class III	SPO1401	-64.89694250190739	4.726835790166768				
+Methionine--tRNA ligase (EC 6.1.1.10) (Methionyl-tRNA synthetase) (MetRS)	SPO1403	3.9584857621846408	3.901607005675835								
+Pseudouridine synthase (EC 5.4.99.-)	SPO1408	69.78244343373866	2.759748130718038								
+RNA polymerase sigma factor RpoH (RNA polymerase sigma-32 factor)	SPO1409	5.2098725355329565	4.603589540782434								
+				Unknown	SPO1412a	-2.38894006257644	3.70251673738402				
+S4 domain protein	SPO1418	67.99110292077603	2.0135893126978073								
+				Ferredoxin	SPO1419	-3.654562695616128	2.8772442839925914				
+				Outer membrane protein, 28Kda	SPO1429	-2.229734396677616	4.469487298523991				
+O-acetylhomoserine aminocarboxypropyltransferase (EC 2.5.1.49)	SPO1431	5.963964209292727	4.036415346978109								
+ATP-dependent RNA helicase RhlE	SPO1443	4.572413527591712	3.954199910057031								
+Aromatic 1,2-dioxygenase, alpha subunit	SPO1451	69.13752116933371	2.6908388099082967								
+				Aminotransferase family protein	SPO1468	-67.34929455965016	4.402989533873853				
+				Isochorismatase family protein	SPO1471	-63.80655613269199	2.284050045677511				
+Fumarate hydratase class I (EC 4.2.1.2)	SPO1498	6.330048349158456	5.229012341741542								
+				Quinoprotein ethanol dehydrogenase (EC 1.1.99.-)	SPO1508	-65.7188507365265	2.5714816962194766				
+				Carbon monoxide dehydrogenase, medium subunit, putative	SPO1520	-2.310302769767735	3.001512661456207				
+				Twin-arginine translocation pathway signal sequence domain protein, putative	SPO1537	-68.53504866234105	2.1380111994962667				
+				Peptide/opine/nickel uptake family ABC transporter, periplasmic substrate-binding protein	SPO1543	-3.711874613203375	3.732695938446501				
+				Trimethylamine N-oxide-binding protein (TMAO-binding protein)	SPO1548	-67.91018292539246	6.1261009242014834				
+Unknown	SPO1557	5.150161396944489	3.644652305097686								
+Unknown	SPO1572	4.85976938638285	4.129565023301402								
+				Aminomethyl transferase family protein	SPO1592	-69.46063374297471	3.9957157201766416				
+				Mandelate racemase/muconate lactonizing enzyme, putative	SPO1594	-65.76806824791541	5.481064857613927				
+Single-stranded DNA-binding protein (SSB)	SPO1637	5.728375104938195	6.009177519316654								
+				Methanethiol oxidase (EC 1.8.3.4)	SPO1643	-66.06760169246927	2.978375825407972				
+				Oligopeptide/dipeptide ABC transporter, periplasmic substrate-binding protein	SPO1647	-67.20126505332706	3.089946798668752				
+Uridylate kinase (UK) (EC 2.7.4.22) (Uridine monophosphate kinase) (UMP kinase) (UMPK)	SPO1662	69.53279796759301	5.558536745295609								
+Ribosome-recycling factor (RRF) (Ribosome-releasing factor)	SPO1664	3.215748622049516	3.7546890229649503								
+Outer membrane protein assembly factor BamA	SPO1670	2.1268717658405083	2.5506889749542054								
+Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO (EC 2.1.1.74) (Folate-dependent tRNA (uracil-5-)-methyltransferase) (Folate-dependent tRNA(M-5-U54)-methyltransferase)	SPO1686	4.093298653617096	4.334886235458831								
+Enoyl-CoA hydratase domain-containing protein 3, mitochondrial	SPO1687	69.51808223739077	3.695487709056327								
+				Large ribosomal subunit protein uL13 (50S ribosomal protein L13)	SPO1691	-2.2765632752595235	2.0643962001713207				
+				Dihydrodipicolinate synthase family protein	SPO1701	-65.4424260263636	2.3926802858259877				
+				TRAP dicarboxylate transporter, DctP subunit, putative	SPO1721	-2.3114121887644217	3.4645667747133535				
+				Mannonate dehydratase (EC 4.2.1.8) (D-mannonate hydro-lyase)	SPO1723	-66.72149586101875	3.8465039277848345				
+Homoserine O-acetyltransferase (HAT) (EC 2.3.1.31) (Homoserine transacetylase) (HTA)	SPO1729	69.1515244495299	3.356300803733962								
+				Fructose-1,6-bisphosphatase	SPO1733	-2.4433887761415742	2.090262623744503				
+homoserine dehydrogenase (EC 1.1.1.3)	SPO1734	6.010571884800928	4.08930811010454								
+				Lipoprotein	SPO1735	-63.91584547383555	2.3878980536306846				
+				Glutamate dehydrogenase	SPO1743	-3.3962754363474437	4.381360743872791				
+Uncharacterized protein	SPO1748	4.8552423639118185	2.9086171701002255								
+RNA polymerase sigma factor RpoD (Sigma-70)	SPO1750	3.968283575739651	5.879618211337541								
+Transcription antitermination protein NusB (Antitermination factor NusB)	SPO1763	3.563852927894402	5.468048711856221								
+				ChrR-like cupin domain-containing protein	SPO1775	-68.17119290164956	4.942389196811255				
+				Sulfate/tungstate uptake family ABC transporter, periplasmic substrate-binding protein	SPO1791	-3.141927615045383	3.324451893736673				
+Iron-sulfur cluster carrier protein	SPO1803	5.110292841560213	3.725069877900767								
+				Adenylate kinase (AK) (EC 2.7.4.3) (ATP-AMP transphosphorylase) (ATP:AMP phosphotransferase) (Adenylate monophosphate kinase)	SPO1812	-63.57235336094173	2.399966096240896				
+				TRAP dicarboxylate transporter, DctP subunit, putative	SPO1814	-3.1264640009579185	4.1766300494526325				
+				Sugar ABC transporter, periplasmic sugar-binding protein	SPO1820	-66.79047436607256	2.4171420212497834				
+Branched-chain amino acid ABC transporter, ATP-binding protein	SPO1829	71.43555314787491	3.322049515873722								
+Ribosomal RNA large subunit methyltransferase E (EC 2.1.1.166) (23S rRNA Um2552 methyltransferase) (rRNA (uridine-2'-O-)-methyltransferase)	SPO1858	67.62759572213726	2.296660236137742								
+				Twin-arginine translocation pathway signal sequence domain protein	SPO1860	-3.6552691550478262	3.785155531393864				
+				Virulence factor domain-containing protein	SPO1861	-2.155182004112558	2.2575414436837415				
+Pterin-binding enzyme domain protein	SPO1863	3.073658416816058	4.403056571953669								
+transketolase (EC 2.2.1.1)	SPO1865	4.946377694543226	4.910243769808137								
+BolA family protein	SPO1869	5.121096772909948	3.42210950867								
+Phosphoribosylformylglycinamidine synthase subunit PurL (FGAM synthase) (EC 6.3.5.3) (Formylglycinamide ribonucleotide amidotransferase subunit II) (FGAR amidotransferase II) (FGAR-AT II) (Glutamine amidotransferase PurL) (Phosphoribosylformylglycinamidine synthase subunit II)	SPO1870	2.6425499922741	2.6443378050075443								
+Enoyl-CoA hydratase/isomerase family protein	SPO1882	5.524546992169673	2.5657404302168794								
+Homocysteine S-methyltransferase family protein	SPO1884	5.693910450644486	2.3944630320143556								
+Phosphoribosylformylglycinamidine synthase subunit PurS (FGAM synthase) (EC 6.3.5.3) (Formylglycinamide ribonucleotide amidotransferase subunit III) (FGAR amidotransferase III) (FGAR-AT III) (Phosphoribosylformylglycinamidine synthase subunit III)	SPO1888	6.855328486253476	5.523725048086958								
+C4-dicarboxylate transport transcriptional regulatory protein DctD	SPO1892	5.001225414910302	3.679458923699154								
+Acrylyl-CoA reductase AcuI (EC 1.3.1.84) (Acryloyl-coenzyme A reductase)	SPO1914	69.53392375387011	2.608989761865949								
+Pyridoxal-phosphate dependent enzyme	SPO1921	5.811700049381312	3.645632621980148								
+Invasion associated family protein	SPO1933	3.504396818375775	2.828606456892067								
+				Glucose/Sorbosone dehydrogenase domain-containing protein	SPO1940	-68.65785951266083	4.7744279932150295				
+Phospho-2-dehydro-3-deoxyheptonate aldolase (EC 2.5.1.54)	SPO1942	70.55403911516719	6.7415788056609784								
+Guanylate kinase (EC 2.7.4.8) (GMP kinase)	SPO1945	67.58478263859828	5.039339702626825								
+Elongation factor Ts (EF-Ts)	SPO1975	5.948268081535906	5.08495658596545								
+Small ribosomal subunit protein uS2 (30S ribosomal protein S2)	SPO1976	5.007909760334764	3.5622919276629506								
+Histidine phosphotransferase ChpT C-terminal domain-containing protein	SPO1983	68.69758324107441	2.084178216279111								
+				Lipoprotein	SPO1997	-65.7290877467568	4.209661644390396				
+Spermidine/putrescine ABC transporter, periplasmic substrate-binding protein	SPO2007	2.4591200550812027	4.394107896265995								
+FeS assembly protein SufD	SPO2017	70.10531848963205	5.832272303507951								
+FeS assembly ATPase SufC	SPO2018	6.277966687008223	6.539462751996894								
+FeS assembly protein SufB	SPO2023	2.372577870861922	2.568520099169236								
+				DUF1330 domain-containing protein	SPO2032	-2.8676154468750785	3.20452401418352				
+Alanine--tRNA ligase (EC 6.1.1.7) (Alanyl-tRNA synthetase) (AlaRS)	SPO2033	4.10914722930125	4.402989533873853								
+Protein RecA (Recombinase A)	SPO2034	4.761583562413224	2.2449970033697113								
+Metallo-beta-lactamase family protein	SPO2038	68.7085924137831	2.265046269586485								
+Inosine-5'-monophosphate dehydrogenase (IMP dehydrogenase) (IMPD) (IMPDH) (EC 1.1.1.205)	SPO2039	3.745469199511896	3.2119734868070005								
+				Lipoprotein, putative	SPO2044	-66.82812870950997	3.556301674414331				
+6-phosphogluconolactonase (6PGL) (EC 3.1.1.31)	SPO2047	4.191080726692291	3.618590233508526								
+DNA gyrase subunit A (EC 5.6.2.2)	SPO2051	3.604747788453776	5.369717449709198								
+tRNA (cytidine/uridine-2'-O-)-methyltransferase TrmJ (EC 2.1.1.200) (tRNA (cytidine(32)/uridine(32)-2'-O)-methyltransferase) (tRNA Cm32/Um32 methyltransferase)	SPO2055	68.91796493728972	4.793200370531747								
+Thiamine-phosphate pyrophosphorylase, putative	SPO2056	2.5143716208824034	2.3778188605471744								
+D-beta-hydroxybutyrate dehydrogenase (EC 1.1.1.30)	SPO2065	6.573334927972342	5.086679835028246								
+DSBA-like thioredoxin family protein	SPO2070	68.1434338622036	4.643794027423615								
+				Cytochrome c-554	SPO2099	-2.144213745339487	2.3156509332952115				
+				ATPase	SPO2113	-64.758578984007	3.123193252311327				
+				EF-hand domain-containing protein	SPO2135	-73.8952585486633	3.531138451645996				
+				Lipoprotein, putative	SPO2137	-63.64506509600608	3.320400100826659				
+DUF192 domain-containing protein	SPO2139	4.121798000292636	3.679751273387445								
+Enoyl-[acyl-carrier-protein] reductase [NADH] (EC 1.3.1.9)	SPO2142	6.250588258779113	5.183996038778043								
+Xanthine-guanine phosphoribosyltransferase (XGPRT) (EC 2.4.2.-) (EC 2.4.2.22) (Xanthine phosphoribosyltransferase)	SPO2143	69.63914994876535	3.6772405402718302								
+Anthranilate synthase component 1 (EC 4.1.3.27)	SPO2146	68.58151985158929	4.016904576380376								
+YibQ protein	SPO2148	4.5040607979694895	3.4542709652925487								
+Anthranilate synthase component II (EC 4.1.3.27)	SPO2149	68.85450079976762	3.272816577382684								
+Indole-3-glycerol phosphate synthase (IGPS) (EC 4.1.1.48)	SPO2151	3.5949465892937784	6.093553915783548								
+Glutamate--tRNA ligase 2 (EC 6.1.1.17) (Glutamyl-tRNA synthetase 2) (GluRS 2)	SPO2156	6.327401887342906	3.8980979303445182								
+Citrate synthase	SPO2157	4.841427439025134	4.4384194207531165								
+Fe-S metabolism associated family protein	SPO2165	3.348421235908906	2.645388851424975								
+				Lipoprotein, putative	SPO2166	-67.27043913893893	2.9923603677907993				
+Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1) (AIR synthase) (AIRS) (Phosphoribosyl-aminoimidazole synthetase)	SPO2169	69.35312642124119	2.151888114777087								
+Uncharacterized protein	SPO2180	5.425968052914053	2.8998486318378216								
+				TRAP transporter solute receptor, TAXI family	SPO2187	-2.7179938378701545	2.6509574097626487				
+				Imidazolonepropionase (EC 3.5.2.7) (Imidazolone-5-propionate hydrolase)	SPO2191	-64.23424684670705	3.1304715264933023				
+				BNR/Asp-box repeat domain protein	SPO2210	-3.581015316204493	4.037927704324467				
+3-hydroxyisobutyryl-CoA hydrolase (EC 3.1.2.4)	SPO2212	2.438819423668063	3.2286820342799967								
+3-hydroxyisobutyrate dehydrogenase (HIBADH) (EC 1.1.1.31)	SPO2213	69.7459904229395	3.6160571206582497								
+Unknown	SPO2213a	4.041217713948307	2.971614107451128								
+				Glyoxalase family protein	SPO2215	-67.87152130502335	3.516945096276019				
+UvrABC system protein A (UvrA protein) (Excinuclease ABC subunit A)	SPO2218	3.887745046362963	3.855284815781037								
+				Methyltransferase type 11 domain-containing protein	SPO2220	-65.63887289123785	2.020531340396103				
+				Dihydrolipoyl dehydrogenase (EC 1.8.1.4)	SPO2222	-3.7071444612909783	3.275066536286287				
+Uncharacterized protein	SPO2231	5.2374048083972	3.3683927709996873								
+Peptidyl-prolyl cis-trans isomerase (PPIase) (EC 5.2.1.8)	SPO2233	4.280439110400391	4.182435920275154								
+Peptidyl-prolyl cis-trans isomerase (PPIase) (EC 5.2.1.8)	SPO2234	4.337900333089411	5.642664752630012								
+Phosphoglycerate kinase (EC 2.7.2.3)	SPO2235	4.5165278386685	5.206850534506005								
+Pyruvate dehydrogenase E1 component subunit alpha (EC 1.2.4.1)	SPO2240	2.0735692966692656	3.076726500264556								
+Cysteine synthase A (EC 2.5.1.47)	SPO2246	4.205508802367791	5.508496368585244								
+Serine acetyltransferase (EC 2.3.1.30)	SPO2247	69.59722207309375	4.054582960563838								
+				Major tail protein, TP901-1 family	SPO2257	-68.62337113627554	2.5615520242301564				
+				Gene transfer agent protein	SPO2260	-67.88922330675682	4.306179659437899				
+				Phage prohead protease, HK97 family	SPO2262	-66.1105031673332	2.934631157207185				
+				3-oxoacyl-[acyl-carrier-protein] synthase 2 (EC 2.3.1.179)	SPO2271	-2.566949877155537	2.734885331517616				
+3-oxoacyl-[acyl-carrier-protein] reductase (EC 1.1.1.100)	SPO2275	4.313820587680316	4.1887582651423845								
+Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)	SPO2276	4.902285165140234	2.969852217872889								
+				Lipid/polyisoprenoid-binding YceI-like domain-containing protein	SPO2279	-2.6707051482334947	3.766277185895139				
+Small ribosomal subunit protein bS6 (30S ribosomal protein S6)	SPO2281	5.741346004309427	5.248802819654062								
+Small ribosomal subunit protein bS18 (30S ribosomal protein S18)	SPO2282	3.8700133974786177	3.3942637691082007								
+Large ribosomal subunit protein bL9 (50S ribosomal protein L9)	SPO2283	5.077876792421141	5.505428651622599								
+Trigger factor (TF) (EC 5.2.1.8) (PPIase)	SPO2288	2.9908233536250237	3.7878107378553594								
+				Glutamine synthetase (EC 6.3.1.2)	SPO2295	-3.662879598137822	4.822595527652216				
+Transglycosylase SLT domain-containing protein	SPO2296	5.041338538096645	3.3881909362077303								
+Uncharacterized protein	SPO2304	2.599766404357045	4.189704365077864								
+Adenylosuccinate lyase (ASL) (EC 4.3.2.2) (Adenylosuccinase)	SPO2305	5.690018856093133	4.714833002529463								
+Aconitate hydratase (Aconitase) (EC 4.2.1.3)	SPO2312	3.888527158903636	4.751915285123469								
+Serine--tRNA ligase (EC 6.1.1.11) (Seryl-tRNA synthetase) (SerRS) (Seryl-tRNA(Ser/Sec) synthetase)	SPO2325	3.498057323920591	4.905763517958206								
+				Superoxide dismutase (EC 1.15.1.1)	SPO2340	-3.6772887538905352	5.512949883127747				
+Unknown	SPO2341a	5.176298748786905	3.045522139089473								
+				Amino acid ABC transporter, periplasmic amino acid-binding protein	SPO2364	-63.99603636223753	3.1997041280738143				
+Universal stress protein family protein	SPO2371	68.38591635635886	2.914694003553266								
+				VOC domain-containing protein	SPO2373	-64.39115390829532	2.0543128577900824				
+				Transthyretin/hydroxyisourate hydrolase domain-containing protein	SPO2386	-64.62540217134149	3.4944673627017635				
+				Oxidoreductase, molybdopterin-binding protein	SPO2389	-69.94106223827643	5.7673128500762605				
+Carbon monoxide dehydrogenase, large subunit (EC 1.2.99.2)	SPO2397	7.40854609073047	3.4328553150121133								
+				Carbon monoxide dehydrogenase, small subunit (EC 1.2.99.2)	SPO2398	-65.09799329888246	2.9173358798173674				
+				Dihydroxy-acid dehydratase, putative	SPO2410	-67.98288241397105	5.930504183630611				
+				D-isomer specific 2-hydroxyacid dehydrogenase family protein	SPO2422	-65.71466227651949	2.9560107448894533				
+				TRAP dicarboxylate transporter, DctP subunit, putative	SPO2433	-66.28928825767137	4.256455967117883				
+				Fumarylacetoacetate hydrolase family protein	SPO2435	-4.558883377979034	4.28803333690037				
+Nucleoside diphosphate kinase (NDK) (NDP kinase) (EC 2.7.4.6) (Nucleoside-2-P kinase)	SPO2444	2.52644727311805	3.603354536073777								
+Acetyltransferase, GNAT family	SPO2447	69.30316077163933	2.7857278826311096								
+Parvulin-like PPIase (Peptidyl-prolyl cis-trans isomerase plp) (Rotamase plp)	SPO2456	3.160256033754195	2.9745651006484373								
+Peptide chain release factor 1 (RF-1)	SPO2461	69.98987282687668	2.2459442419555837								
+				Agmatinase (EC 3.5.3.11)	SPO2464	-71.13344209054644	4.566647388174196				
+				Glyoxalase family protein	SPO2466	-70.37716135308311	2.4447896223550147				
+Enolase (EC 4.2.1.11) (2-phospho-D-glycerate hydro-lyase) (2-phosphoglycerate dehydratase)	SPO2474	4.171569366235851	4.2564760860447315								
+RNA helicase	SPO2478	69.83087932052601	3.549351565569233								
+Tyrosine--tRNA ligase (EC 6.1.1.1) (Tyrosyl-tRNA synthetase) (TyrRS)	SPO2484	4.500374098766842	3.694800529845288								
+3-hydroxyacyl-CoA dehydrogenase, type II (EC 1.1.1.35)	SPO2487	4.8224367314938466	4.487779424550253								
+				Lipoprotein, SmpA/OmlA family	SPO2490	-68.01225957237259	3.1111553637135576				
+Beta-ketoacyl-[acyl-carrier-protein] synthase III (Beta-ketoacyl-ACP synthase III) (KAS III) (EC 2.3.1.180) (3-oxoacyl-[acyl-carrier-protein] synthase 3) (3-oxoacyl-[acyl-carrier-protein] synthase III)	SPO2494	4.280745678259292	3.7020209224379665								
+Integration host factor subunit alpha (IHF-alpha)	SPO2495	2.296744653875806	3.558141483794048								
+				Uncharacterized protein	SPO2499	-67.48120623515574	3.552435900072812				
+SPOR domain-containing protein	SPO2503	3.928072868812656	4.521915922170413								
+Arginine--tRNA ligase (EC 6.1.1.19) (Arginyl-tRNA synthetase) (ArgRS)	SPO2504	5.658708580087892	5.855990743236428								
+Iron-sulfur cluster assembly family protein	SPO2506	5.76125708340096	7.6327686202095695								
+RNA polymerase-binding transcription factor DksA	SPO2511	5.010108238487543	2.7961490222919525								
+				Lipoprotein	SPO2513	-67.34929455965016	3.321425614329528				
+PUA domain-containing protein	SPO2520	68.48120623515574	3.3838874810010564								
+Glutamate-ammonia ligase adenylyltransferase (EC 2.7.7.42)	SPO2523	68.15956991801048	2.405121926507217								
+				6-aminohexanoate-cyclic-dimer hydrolase (EC 3.5.2.12)	SPO2527	-67.93596136658357	3.0142309438647374				
+				Branched-chain amino acid ABC transporter, periplasmic branched-chain amino acid-binding protein, putative	SPO2534	-66.77198563147243	4.437192167492134				
+Acyl-CoA dehydrogenase famiy protein	SPO2538	76.120385937721	5.247223936831844								
+				Peptide/opine/nickel uptake family ABC transporter, periplasmic substrate-binding protein	SPO2554	-68.61913414338906	4.832251990846441				
+				Hydroxypyruvate isomerase, putative	SPO2563	-68.74501858387217	4.039261034452321				
+				Glyoxalase family protein	SPO2570	-67.12562258608713	2.2348549139560636				
+				Bacterial extracellular solute-binding protein, family 7	SPO2573	-5.279260137523877	3.323521460864615				
+Beta-lactamase, putative	SPO2592	70.13529764712491	4.7299375983407765								
+Peptidase, M20/M25/M40 family	SPO2597	5.798878099248484	4.504470188343933								
+				Bacterial extracellular solute-binding protein, family 7	SPO2606	-2.7465334788662408	3.8820450425485142				
+				Porin domain-containing protein	SPO2610	-66.47870292629298	2.819189027659886				
+NADH-dependent flavin oxidoreductase, Oye family	SPO2615	4.827043029086527	5.57921027069193								
+Translation initiation factor IF-3	SPO2638	4.670735955231196	4.834522604203409								
+				Dihydroorotase (DHOase) (EC 3.5.2.3)	SPO2653	-2.008711368546871	3.755451559371541				
+Alanine racemase (EC 5.1.1.1)	SPO2670	2.4921467227589145	4.641828792257892								
+Amidophosphoribosyltransferase (ATase) (EC 2.4.2.14) (Glutamine phosphoribosylpyrophosphate amidotransferase) (GPATase)	SPO2677	69.75132386724253	3.738849692555852								
+				Sec-independent protein translocase protein TatB	SPO2682	-66.68812374199342	2.589862360888692				
+				Sec-independent protein translocase protein TatA	SPO2683	-70.09848645614963	2.4122800363699577				
+				5'-nucleotidase SurE (EC 3.1.3.5) (Nucleoside 5'-monophosphate phosphohydrolase)	SPO2688	-63.72373918661838	2.722398265154663				
+Iron ABC transporter, ATP-binding protein, putative	SPO2689	69.91278159623778	3.059414793656821								
+				Peptide chain release factor 3 (RF-3)	SPO2695	-70.85810078926103	3.102230870400595				
+RND efflux pump membrane fusion protein barrel-sandwich domain-containing protein	SPO2718	76.80852268905642	3.599727982135682								
+				Protein NO VEIN C-terminal domain-containing protein	SPO2719	-64.91295882826908	2.1453858187591175				
+Uncharacterized protein	SPO2723	68.18988278489053	4.611886048021935								
+GIY-YIG domain-containing protein	SPO2736	73.89799351638455	2.8898649839054733								
+serine-type D-Ala-D-Ala carboxypeptidase (EC 3.4.16.4)	SPO2739	4.703670968045883	3.827079981890653								
+Thymidylate kinase (EC 2.7.4.9) (dTMP kinase)	SPO2740	68.63600796195347	2.0078142646347468								
+Diguanylate cyclase, putative	SPO2747	74.74993180093604	2.6083811441502176								
+				EF hand domain protein	SPO2757	-70.43856189774725	3.2474072054012315				
+				Type III pantothenate kinase (EC 2.7.1.33) (PanK-III) (Pantothenic acid kinase)	SPO2761	-2.17797957917377	2.1453858187591175				
+biotin--[biotin carboxyl-carrier protein] ligase (EC 6.3.4.15)	SPO2762	68.756637667139	2.6096349221406427								
+NADH-quinone oxidoreductase subunit I (EC 7.1.1.-) (NADH dehydrogenase I subunit I) (NDH-1 subunit I)	SPO2770	69.78149585075491	2.2088408357503804								
+				Lipoprotein, putative	SPO2773	-65.00749939673011	2.6405795604826054				
+NADH-quinone oxidoreductase (EC 7.1.1.-)	SPO2774	4.527898782854553	5.629681255409272								
+DUF5333 domain-containing protein	SPO2775	7.42320551375195	4.207540144091597								
+NADH:ubiquinone oxidoreductase 41 kD complex I subunit	SPO2780	3.719736210092433	3.1455533299984664								
+NADH-quinone oxidoreductase subunit C (EC 7.1.1.-) (NADH dehydrogenase I subunit C) (NDH-1 subunit C)	SPO2784	69.81614841994914	3.76115618439816								
+Enoyl-CoA hydratase/isomerase family protein	SPO2787	69.21817182932195	3.940932758996716								
+Hydroxymethylglutaryl-CoA lyase (EC 4.1.3.4)	SPO2788	4.941616655699115	3.435708467241803								
+Isovaleryl-CoA dehydrogenase, mitochondrial (EC 1.3.8.4)	SPO2793	4.414260210581063	2.9027870012996573								
+				Phosphoglycolate phosphatase (EC 3.1.3.18)	SPO2796	-66.87957856836877	2.4127315133735596				
+Bifunctional protein GlmU [Includes: UDP-N-acetylglucosamine pyrophosphorylase (EC 2.7.7.23) (N-acetylglucosamine-1-phosphate uridyltransferase); Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)]	SPO2797	6.082808970926064	3.180797768439544								
+				Bmp family protein	SPO2802	-3.486074052673043	3.8911423887953114				
+				Cytosine deaminase, putative	SPO2806	-68.49745558680081	6.142971049612357				
+				Peptide/opine/nickel uptake family ABC transporter, periplasmic substrate-binding protein	SPO2814	-2.519426745983847	3.3641433491420276				
+				Dipeptidase (EC 3.4.-.-)	SPO2829	-65.78235703995841	2.653115094524408				
+				GlcG protein	SPO2838	-68.97875452834838	4.041946521817587				
+Aminopeptidase N (EC 3.4.11.2)	SPO2841	3.1314399217768054	2.4751455285716455								
+Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B (Asp/Glu-ADT subunit B) (EC 6.3.5.-)	SPO2847	4.480365060247127	3.428468302608631								
+BolA protein, truncation	SPO2849	69.13455571085714	3.897344360223062								
+DnaJ domain protein	SPO2850	2.535390570864214	3.1537491651438683								
+cobaltochelatase subunit CobS (EC 6.6.1.2)	SPO2853	4.319947520396907	4.827584725189188								
+				Metallopeptidase, family M24	SPO2857	-2.840354736507007	4.066986779388851				
+CobW	SPO2862	69.52375991115272	4.627251947772882								
+Precorrin-8X methylmutase (EC 5.4.99.61)	SPO2865	69.07702194696103	3.21176709101213								
+				DUF302 domain-containing protein	SPO2884	-69.3499339104432	2.452918971428141				
+				Acetolactate synthase, catabolic, putative	SPO2885	-66.52715582101624	4.113599397380753				
+				Selenide,water dikinase, putative	SPO2899	-69.51921956109247	2.6455373950118326				
+				Ser/Thr protein phosphatase/nucleotidase, putative	SPO2904	-2.609452170831939	4.175610421352569				
+Thioesterase family protein	SPO2911	67.7965829952132	3.632870153621046								
+Acetyl-CoA acyltransferase/thiolase	SPO2918	4.793963014022528	5.838384075932806								
+Uracil phosphoribosyltransferase (EC 2.4.2.9) (UMP pyrophosphorylase) (UPRTase)	SPO2926	5.213457379216864	3.3183687056112214								
+				Cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	SPO2930	-68.58912157432263	6.090252569657596				
+				Cupin type-2 domain-containing protein	SPO2931	-64.69528435059318	2.1825087061508572				
+Malate dehydrogenase	SPO2932	3.258953238628836	2.6234479350434277								
+Hydrolase, alpha/beta fold family	SPO2943	68.16829592268238	2.3818190013076905								
+				Endoribonuclease L-PSP family protein	SPO2949	-4.403707297634119	2.5282487310494917				
+Ser/Thr protein phosphatase family protein	SPO2953	67.4647717770701	2.5935249484423606								
+Large ribosomal subunit protein bL33 (50S ribosomal protein L33)	SPO2965	5.200635642477448	5.211284418570344								
+Glutamyl-tRNA(Gln) amidotransferase subunit A (Glu-ADT subunit A) (EC 6.3.5.7)	SPO2969	5.843480377270726	4.680692300561924								
+Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit C (Asp/Glu-ADT subunit C) (EC 6.3.5.-)	SPO2970	4.354889897331357	2.104130193029854								
+				YHS domain protein	SPO2972	-66.06858148058006	2.366931631075247				
+Antifreeze protein, type I	SPO2988	5.768989319324341	5.7549443693175615								
+				D-aminoacyl-tRNA deacylase (DTD) (EC 3.1.1.96) (Gly-tRNA(Ala) deacylase)	SPO2992	-66.43524566143557	2.76761172756546				
+				X-Pro dipeptidyl-peptidase family protein	SPO2994	-64.70869769577169	2.230962122748494				
+				Type I phosphodiesterase/nucleotide pyrophosphatase family protein	SPO3000	-72.02652688662992	4.285072173368573				
+				YARHG domain-containing protein	SPO3001	-64.32345828996255	2.6112597477315016				
+LysM/phospholipid-binding domain protein	SPO3004	3.1844432491890347	3.2264377989636777								
+Inositol-1-monophosphatase (EC 3.1.3.25)	SPO3012	4.873504290863772	4.5550260403972676								
+NADP-dependent oxidoreductase, L4bD family	SPO3013	2.75414295307667	3.418613431805733								
+Valine--tRNA ligase (EC 6.1.1.9) (Valyl-tRNA synthetase) (ValRS)	SPO3022	4.722588709525317	4.632535025802487								
+				2-dehydro-3-deoxy-phosphogluconate aldolase (EC 4.1.2.14)	SPO3031	-3.3932454993890153	6.094542453782676				
+Aspartokinase (EC 2.7.2.4)	SPO3035	69.78858759880957	3.686992438585282								
+				Metallo-beta-lactamase family protein	SPO3036	-3.2603027087919387	3.3629042052776823				
+				Dipeptide ABC transporter, periplasmic dipeptide-binding protein	SPO3049	-65.35137013747048	2.5808095535227027				
+Oxidoreductase, short-chain dehydrogenase/reductase family	SPO3051	68.64332864840186	3.4674119249414295								
+				Ribbon-helix-helix protein CopG domain-containing protein	SPO3064	-66.19638054138909	2.7584196036876376				
+Peptidase, M16 family	SPO3070	4.005570729756219	4.061366462327109								
+Threonine synthase (EC 4.2.3.1)	SPO3071	5.439343012177638	5.774205897684229								
+DNA topoisomerase 1 (EC 5.6.2.1) (DNA topoisomerase I)	SPO3079	4.824640300802237	4.825108597343985								
+Cell division coordinator CpoB	SPO3107	2.2491196592551663	2.798051018890826								
+				Biopolymer transport protein, ExbD/TolR family	SPO3111	-61.54885065451265	2.594871766513327				
+				Lipoprotein	SPO3124	-69.66352826274752	3.911916122717036				
+Probable transaldolase (EC 2.2.1.2)	SPO3128	5.6821098670809	3.968915219793996								
+Isoleucine--tRNA ligase (EC 6.1.1.5) (Isoleucyl-tRNA synthetase) (IleRS)	SPO3136	6.424238470460049	5.146725808577011								
+				YcjX family protein	SPO3142	-66.6144219975306	3.267697800908524				
+inorganic diphosphatase (EC 3.6.1.1) (Pyrophosphate phospho-hydrolase)	SPO3147	2.6417154120332365	4.831632023632084								
+HAD-superfamily subfamily IIA hydrolase, TIGR01459	SPO3151	3.72255324458047	3.0190578050143375								
+Hydrolase, alpha/beta fold family	SPO3157	67.7489020183594	7.136587865285942								
+Ribose-phosphate pyrophosphokinase (RPPK) (EC 2.7.6.1) (5-phospho-D-ribosyl alpha-1-diphosphate synthase) (Phosphoribosyl diphosphate synthase) (Phosphoribosyl pyrophosphate synthase) (P-Rib-PP synthase) (PRPP synthase) (PRPPase)	SPO3159	69.63285911739847	3.782308608319928								
+ATP synthase subunit beta (EC 7.1.2.2) (ATP synthase F1 sector subunit beta) (F-ATPase subunit beta)	SPO3162	3.825773682940187	3.359696716414146								
+ATP synthase subunit alpha (EC 7.1.2.2) (ATP synthase F1 sector subunit alpha) (F-ATPase subunit alpha)	SPO3164	3.9510128459894487	2.978924276877431								
+ATP-dependent Clp protease, ATP-binding subunit ClpA	SPO3169	4.611420650795697	2.6992137446657263								
+Vitamin B12-dependent ribonucleotide reductase (EC 1.17.4.1)	SPO3194	5.347551867131951	5.832272303507951								
+				Signal peptidase I (EC 3.4.21.89)	SPO3199	-64.59788623844526	2.416157256237772				
+Pyridoxine 5'-phosphate synthase (PNP synthase) (EC 2.6.99.2)	SPO3201	2.638112207239921	4.477088373698242								
+DNA-directed RNA polymerase subunit omega (RNAP omega subunit) (EC 2.7.7.6) (RNA polymerase omega subunit) (Transcriptase subunit omega)	SPO3204	4.553113620739956	3.661727003185462								
+NYN domain-containing protein	SPO3206	6.246661083506144	4.195998246586378								
+Peptide deformylase (PDF) (EC 3.5.1.88) (Polypeptide deformylase)	SPO3217	67.44575739915145	2.9721300065343805								
+cysteine-S-conjugate beta-lyase (EC 4.4.1.13)	SPO3220	5.340189790631939	4.0129405263314935								
+				ATP synthase subunit b (ATP synthase F(0) sector subunit b) (ATPase subunit I) (F-type ATPase subunit b) (F-ATPase subunit b)	SPO3233	-64.56195617010731	2.472029904720337				
+				Asp/Glu/Hydantoin racemase family protein	SPO3241	-66.67326758052255	4.319816897904441				
+Signal recognition particle protein (EC 3.6.5.4) (Fifty-four homolog)	SPO3246	5.8137485000925	3.254098725753287								
+Small ribosomal subunit protein bS16 (30S ribosomal protein S16)	SPO3253	2.055352089769761	2.2243037043961555								
+Large ribosomal subunit protein bL31 (50S ribosomal protein L31)	SPO3256	5.444352671071108	3.301440718073751								
+				Large ribosomal subunit protein bL19 (50S ribosomal protein L19)	SPO3257	-2.072063959583652	2.3544234802110457				
+Chaperone protein ClpB	SPO3276	6.511606524875688	2.1167399435138257								
+Ferric iron ABC transporter, periplasmic ferric iron-binding protein	SPO3287	2.3261798449036704	3.834982350869924								
+				Branched-chain amino acid ABC transporter, periplasmic branched-chain amino acid binding protein, putative	SPO3291	-71.86817786194898	5.4791206700033515				
+				GDSL-like lipase/acylhydrolase, putative	SPO3303	-66.61652007421142	3.1519221291203237				
+Saccharopine dehydrogenase [NAD(+), L-lysine-forming] (EC 1.5.1.7) (Lysine--2-oxoglutarate reductase)	SPO3307	2.592640231799554	2.0382877010940086								
+				Uncharacterized protein	SPO3312	-68.23349756055079	3.636314800529805				
+Sulfotransferase family protein	SPO3318	3.861148373320277	2.7884748784443696								
+Uncharacterized protein	SPO3325	4.022896375307761	2.9620122558729967								
+				Creatinase (EC 3.5.3.3)	SPO3327	-68.89098161902918	6.077473330926661				
+Pyridoxal-phosphate dependent enzyme family protein	SPO3341	69.53897894898516	3.1653211492728746								
+AMP nucleosidase (EC 3.2.2.4) (AMP nucleosidase)	SPO3342	68.85899938476868	3.9038136783375186								
+				Cys/Met metabolism PLP-dependent enzyme family protein	SPO3344	-69.52997965249301	5.788860794093574				
+				Aha1 domain protein	SPO3351	-67.68141842164341	2.1911260541186746				
+D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)	SPO3355	6.312595341296266	4.3708811910501515								
+2-amino-3-ketobutyrate coenzyme A ligase (AKB ligase) (EC 2.3.1.29) (Glycine acetyltransferase)	SPO3360	4.636922885658322	5.072946269631792								
+Manganese ABC transporter, periplasmic protein	SPO3366	5.341052608407633	3.661474149053337								
+Bifunctional purine biosynthesis protein PurH [Includes: Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3) (AICAR transformylase); IMP cyclohydrolase (EC 3.5.4.10) (ATIC) (IMP synthase) (Inosinicase)]	SPO3374	6.333589138784236	4.84698753478585								
+				Dihydrodipicolinate reductase	SPO3377	-65.85394992933307	2.7651883225108858				
+Aldehyde dehydrogenase family protein	SPO3382	3.5983766615111494	3.2969874690634553								
+Thiol-specific antioxidant protein	SPO3383	5.016007876200392	4.753718438979668								
+Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8) (Polynucleotide phosphorylase) (PNPase)	SPO3389	5.524754218176068	4.263048729591696								
+				FAD dependent oxidoreductase/aminomethyl transferase	SPO3396	-68.15079081359195	4.882466604502073				
+Outer membrane lipoprotein carrier protein LolA, putative	SPO3415	6.100549687854442	4.309203185122459								
+Aminotransferase, classes I and II	SPO3417	4.390541559383185	2.018252479915009								
+Thioredoxin	SPO3423	70.05523325819574	4.136649754432013								
+				Enoyl-CoA hydratase/isomerase family protein	SPO3439	-67.12562258608713	2.334587230645482				
+DUF2125 domain-containing protein	SPO3441	5.239156387955582	3.1025964395349876								
+PmbA	SPO3442	3.4325100797152226	3.755451559371541								
+Lipoprotein	SPO3453	2.0461826373040144	2.7965838163963816								
+				Flagellin	SPO3459	-65.01633020510711	2.317902960141701				
+				Spermidine/putrescine import ATP-binding protein PotA (EC 7.6.2.11)	SPO3472	-63.81071165643257	2.4396315478182604				
+				Polyamine ABC trasnporter, periplasmic polyamine-binding protein	SPO3473	-2.685769300778605	3.323734125970357				
+				Lipoprotein	SPO3476	-72.18451627514071	3.6213947979041823				
+				YtoQ family protein	SPO3492	-2.2850520926523297	4.942113032520008				
+				Unknown	SPO3498a	-67.47652974794627	3.524531512846838				
+Elongation factor G (EF-G)	SPO3499	5.909492433467089	6.1284089811423055								
+Small ribosomal subunit protein uS7 (30S ribosomal protein S7)	SPO3500	2.691139690277186	3.7314637979798295								
+Small ribosomal subunit protein uS12 (30S ribosomal protein S12)	SPO3501	3.8088823918041976	3.688660619605769								
+DNA-directed RNA polymerase subunit beta' (RNAP subunit beta') (EC 2.7.7.6) (RNA polymerase subunit beta') (Transcriptase subunit beta')	SPO3507	4.852525895748976	6.422786131461749								
+DNA-directed RNA polymerase subunit beta (RNAP subunit beta) (EC 2.7.7.6) (RNA polymerase subunit beta) (Transcriptase subunit beta)	SPO3508	5.401917011152618	7.172833684537761								
+Large ribosomal subunit protein bL12 (50S ribosomal protein L7/L12)	SPO3509	2.6900151792396363	3.322103267064605								
+Large ribosomal subunit protein uL10 (50S ribosomal protein L10)	SPO3510	3.5165458125091305	2.9644833869426304								
+Large ribosomal subunit protein uL1 (50S ribosomal protein L1)	SPO3513	5.510777774316934	3.212502380027325								
+Large ribosomal subunit protein uL11 (50S ribosomal protein L11)	SPO3514	3.999630493285104	3.4054911612001098								
+				Cupin type-2 domain-containing protein	SPO3518	-70.35185026455392	3.5017059120817304				
+				Transcriptional regulator, LysR family	SPO3530	-67.48353880646563	2.0428062496418775				
+				Oligopeptide/dipeptide uptake family ABC transporter, periplasmic substrate-binding protein	SPO3537	-3.321928094887362	3.97042495854331				
+				Zinc metallopeptidase, putative	SPO3546	-64.9197161491557	2.145016845851771				
+				4-hydroxy-tetrahydrodipicolinate synthase (HTPA synthase) (EC 4.3.3.7)	SPO3556	-3.4796559618508076	4.024335497983686				
+Cytoplasmic protein	SPO3566	3.0845762130795804	4.700095693698871								
+Uncharacterized protein	SPO3568	4.673612691073128	3.600381553817175								
+RNA pyrophosphohydrolase (EC 3.6.1.-) ((Di)nucleoside polyphosphate hydrolase)	SPO3585	67.764332058929	2.527191450858237								
+				Large ribosomal subunit protein bL20 (50S ribosomal protein L20)	SPO3598	-2.670044001610924	3.1259768255262306				
+Pyruvate kinase (EC 2.7.1.40)	SPO3600	3.862987773731703	3.9232938705906624								
+				Probable branched-chain-amino-acid aminotransferase	SPO3604	-3.30114817743911	3.841066426763813				
+Dipeptide epimerase (EC 5.1.1.-)	SPO3606	5.978287348195996	4.686224951963034								
+				PA14 domain-containing protein	SPO3611	-2.76011555028675	3.190103641535918				
+Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha (ACCase subunit alpha) (Acetyl-CoA carboxylase carboxyltransferase subunit alpha) (EC 2.1.3.15)	SPO3616	2.9819470268969517	2.4989202188560653								
+TIGR02300 family protein	SPO3623	2.136196290641228	2.114439000578836								
+Glutamate--cysteine ligase (EC 6.3.2.2)	SPO3626	2.3944724280109284	4.4000891636921216								
+Acetyltransferase, GNAT family	SPO3628	78.45165189718769	3.0804437540780474								
+				Beta-lactamase, putative	SPO3636	-66.4779361582767	4.443855010870716				
+7-alpha-hydroxysteroid dehydrogenase, putative	SPO3654	69.03151718922193	2.443615344551876								
+D-alanyl-D-alanine carboxypeptidase family protein	SPO3658	4.685505557231612	2.0638983134654008								
+				Muticopper oxidase domain protein	SPO3671	-70.41431435150056	3.977027869549744				
+Type I secretion target repeat protein	SPO3673	4.725942892569422	7.632812720135927								
+				Endoribonuclease L-PSP family protein	SPO3680	-67.57824966875906	3.1885355176797208				
+Transcriptional regulator, LacI family	SPO3684	69.8003302571664	3.279308926633663								
+				TRAP dicarboxylate transporter, DctP subunit	SPO3693	-3.631919570007026	4.134444508902654				
+				Branched-chain amino acid ABC transporter, periplasmic branched-chain amino acid-binding protein	SPO3705	-71.72149586101875	7.183576997743552				
+Aspartate-semialdehyde dehydrogenase (ASA dehydrogenase) (ASADH) (EC 1.2.1.11) (Aspartate-beta-semialdehyde dehydrogenase)	SPO3712	5.294564723175205	3.877632813273533								
+DUF4139 domain-containing protein	SPO3713	2.4957958562922262	2.416157256237772								
+Carbonic anhydrase (EC 4.2.1.1) (Carbonate dehydratase)	SPO3715	6.171049778232168	4.195676806063477								
+				Cytosol aminopeptidase family protein	SPO3717	-4.080812045588097	3.3529568002355217				
+Thiosulfate sulfurtransferase, putative	SPO3719	5.109436398526519	5.162632980289365								
+Aromatic amino acid aminotransferase (EC 2.6.1.57)	SPO3720	4.259331240520674	4.61937719548304								
+				Toluene tolerance family protein	SPO3726	-2.2494316740888003	2.906907568493464				
+				VacJ lipoprotein, putative	SPO3727	-65.61168165389462	4.758948933335352				
+Glutathione-dependent peroxiredoxin (EC 1.11.1.27)	SPO3736	69.48586761252561	3.06385797687082								
+Peptide methionine sulfoxide reductase MsrA (Protein-methionine-S-oxide reductase) (EC 1.8.4.11) (Peptide-methionine (S)-S-oxide reductase) (Peptide Met(O) reductase)	SPO3740	2.6546404363222837	2.5841022222846273								
+DNA-binding protein HU	SPO3744	3.9649814108215833	3.096945119075756								
+NADH ubiquinone oxidoreductase, putative	SPO3772	3.3418196829142457	3.4164034979113667								
+				Oligopeptide/dipeptide ABC transporter, ATP-binding protein	SPO3778	-69.77769928266683	2.7422494420588315				
+				Sugar ABC transporter, periplasmic sugar-binding protein	SPO3787	-65.7027684177807	2.4567802904030405				
+				SsrA-binding protein (Small protein B)	SPO3806	-66.84636782779502	3.2761331411045673				
+2,3-bisphosphoglycerate-independent phosphoglycerate mutase (BPG-independent PGAM) (Phosphoglyceromutase) (iPGM) (EC 5.4.2.12)	SPO3810	4.603903259378414	3.9439649137213086								
+Dihydrofolate synthase/folylpolyglutamate synthase (EC 6.3.2.12) (EC 6.3.2.17) (Folylpoly-gamma-glutamate synthetase-dihydrofolate synthetase) (Folylpolyglutamate synthetase) (Tetrahydrofolylpolyglutamate synthase)	SPO3818	4.138031494500573	2.8169020443811785								
+				Large ribosomal subunit protein uL23 (50S ribosomal protein L23)	SPO3823	-2.859766683494493	3.186813309933339				
+				Large ribosomal subunit protein uL3 (50S ribosomal protein L3)	SPO3825	-2.171203905507095	2.5719030316928024				
+Small ribosomal subunit protein uS10 (30S ribosomal protein S10)	SPO3826	6.26077194703004	3.8860117720578686								
+				S-formylglutathione hydrolase (EC 3.1.2.12)	SPO3829	-70.54009992420931	2.758951427540788				
+Ribosome-binding factor A	SPO3835	69.35885519795825	3.779978614051333								
+Type I secretion target repeat protein	SPO3839	68.894491827673	4.54747606878988								
+Small ribosomal subunit protein uS15 (30S ribosomal protein S15)	SPO3840	4.93180726478182	3.1005232985509044								
+HemY domain protein	SPO3851	2.9749583242452498	2.9462116691221496								
+EVE domain-containing protein	SPO3857	2.466579879371824	2.367903515124594								
+Adenosylhomocysteinase (EC 3.13.2.1) (S-adenosyl-L-homocysteine hydrolase) (AdoHcyase)	SPO3861	4.80099493905818	2.85957841647231								
+				Glycosyltransferase 61 catalytic domain-containing protein	SPO3864	-65.5945407691683	2.1965198690558645				
+Photosynthetic apparatus regulatory protein RegA	SPO3865	69.58043061405859	3.528565623648233								
+ATP-dependent protease ATPase subunit HslU (Unfoldase HslU)	SPO3882	5.17771333442999	2.9163951479724974								
+Transporter, Tim44 family	SPO3886	2.9669783371766627	3.6817268552859983								
+Protein-export protein SecB	SPO3888	5.089410708351201	3.1433366490734636								
+Transcription termination factor Rho (EC 3.6.4.-) (ATP-dependent helicase Rho)	SPO3894	4.433910118838621	4.134669948336538								
+				6-carboxy-5,6,7,8-tetrahydropterin synthase (EC 4.-.-.-)	SPO3903	-67.99601283489983	2.407018549666948				
+				Lipoprotein, putative	SPOA0005	-65.4113172815861	2.5841022222846273				
+3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19) (5-enolpyruvylshikimate-3-phosphate synthase) (EPSP synthase) (EPSPS)	SPOA0015	4.790162766598106	5.217655156802982								
+				3,4-dihydroxyphenylacetate 2,3-dioxygenase (EC 1.13.11.15)	SPOA0026	-67.3077752902119	3.605190637297536				
+Na(+)-translocating NADH-quinone reductase subunit F (Na(+)-NQR subunit F) (Na(+)-translocating NQR subunit F) (EC 7.2.1.1) (NQR complex subunit F) (NQR-1 subunit F)	SPOA0033	3.0075635723573746	3.051241565329497								
+Cytochrome c domain-containing protein	SPOA0039	3.599167726525067	3.687236501384199								
+				Protocatechuate 3,4-dioxygenase alpha subunit (EC 1.13.11.3)	SPOA0043	-67.15811043883605	2.582338742127159				
+				Protocatechuate 3,4-dioxygenase beta subunit (EC 1.13.11.3)	SPOA0044	-67.22933393560925	2.300893713707272				
+				4-carboxymuconolactone decarboxylase (EC 4.1.1.44)	SPOA0045	-68.3784153253836	2.2340351211156535				
+				4-hydroxybenzoate hydroxylase (EC 1.14.13.2)	SPOA0046	-67.02672683050675	5.054046670993241				
+Glycine dehydrogenase (decarboxylating) (EC 1.4.4.2) (Glycine cleavage system P-protein) (Glycine decarboxylase) (Glycine dehydrogenase (aminomethyl-transferring))	SPOA0059	2.1481448567478414	2.806088842364301								
+Catalase-peroxidase (CP) (EC 1.11.1.21) (Peroxidase/catalase)	SPOA0061	5.567861492874863	4.431503831948506								
+SnoaL-like domain-containing protein	SPOA0074	3.48016896435643	2.320333762385217								
+Translation initiation factor IF-1	SPOA0077	6.161430289408582	3.152522208874376								
+Branched-chain amino acid ABC transporter, periplasmic branched-chain amino acid-binding protein, putative	SPOA0101	69.9452992311629	4.780061291761354								
+				Transcriptional regulator, LuxR family	SPOA0102	-67.2237636775663	2.536822077667756				
+DUF4440 domain-containing protein	SPOA0103	68.67836725016939	3.7872332537745073								
+				Fumarylacetoacetate hydrolase family protein	SPOA0116	-68.08010792683477	3.199733972137028				
+				Cyclase family protein	SPOA0127	-67.22097046267461	3.654939667929556				
+DUF2948 domain-containing protein	SPOA0138	68.90235870894594	4.690239251415084								
+				Serine--glyoxylate transaminase, putative	SPOA0144	-66.98782033678673	3.0547295592080177				
+Uncharacterized protein	SPOA0153	69.8295046705498	3.8531829195387033								
+Type I secretion target repeat protein	SPOA0155	2.38172117972962	4.091330257412138								
+				TRAP transporter solute receptor, TAXI family	SPOA0166	-67.19273678194568	2.9905678095733426				
+				Serine protease, subtilase family	SPOA0205	-68.99192240108258	4.303399744452498				
+Oxidoreductase, FAD-binding protein	SPOA0208	3.0338293972350607	3.6521739848663977								
+				Glycine betaine/proline ABC transporter, periplasmic substrate-binding protein	SPOA0231	-65.77456795678245	2.3069949152835347				
+				Agmatinase (EC 3.5.3.11)	SPOA0235	-67.96295995643032	2.3391217057612685				
+				Dihydrodipicolinate synthase family protein	SPOA0244	-69.02272267850284	3.0028191790361203				
+				YncE family protein	SPOA0247	-66.03670283581698	3.030895245849558				
+				TRAP dicarboxylate transporter, DctP subunit	SPOA0249	-69.46595189577876	2.7996022874547366				
+				Methanethiol oxidase (MTO) (EC 1.8.3.4)	SPOA0269	-66.94783546687185	2.318292104033138				
+Unknown	SPOA0272a	2.1446473265971457	2.482401052356499								
+4-aminobutyrate aminotransferase (EC 2.6.1.19)	SPOA0274	2.911606830736624	2.6782036280498973								
+				TRAP dicarboxylate transporter, DctP subunit, putative	SPOA0280	-66.31789910246167	2.2479340181180207				
+				Branched-chain amino acid ABC transporter, periplasmic branched-chain amino acid-binding protein	SPOA0300	-69.11061001523211	6.264475054158305				
+S1 RNA binding domain protein	SPOA0306	3.564213382437883	2.4840591939646797								
+Isocitrate dehydrogenase [NADP] (EC 1.1.1.42) (Oxalosuccinate decarboxylase)	SPOA0315	4.773599323145498	4.555689189015456								
+				Amidohydrolase domain protein	SPOA0316	-2.958785631031393	3.0889717987013956				
+L-methionine gamma-lyase (EC 4.4.1.11)	SPOA0318	69.42345500535704	2.9734516613444875								
+				Propionate 3-nitronate monooxygenase	SPOA0325	-66.12312931971935	3.759370027242136				
+				2-dehydro-3-deoxyphosphogluconate aldolase (EC 4.1.2.14, EC 4.1.3.16)	SPOA0330	-64.14820309077234	3.397427147687108				
+				TRAP dicarboxylate family transporter, DctP subunit	SPOA0335	-69.51921956109247	3.0987345783674396				
+HAD-superfamily hydrolase, subfamily IB	SPOA0339	68.95036725174079	4.695996467104772								
+Tautomerase, putative	SPOA0340	5.450860802918793	4.128153241154168								
+EthD domain-containing protein	SPOA0343	5.722032682738371	3.3794776660731394								
+Oxidoreductase, aldo/keto reductase family	SPOA0345	6.835889837734419	4.704121315533086								
+				DNA-binding response regulator	SPOA0357	-66.45572319218562	4.278418721228414				
+				27kDa outer membrane protein	SPOA0362	-64.63811510573127	2.550882488020406				
+				Spermidine/putrescine ABC transporter, periplasmic substrate-binding protein	SPOA0381	-69.69456610151352	4.7655839510877005				
+Tryptophan 2,3-dioxygenase (TDO) (EC 1.13.11.11) (Tryptamin 2,3-dioxygenase) (Tryptophan oxygenase) (TO) (TRPO) (Tryptophan pyrrolase) (Tryptophanase)	SPOA0409	67.52489276950767	4.170847695057799								
+				Xanthine dehydrogenase family protein, medium subunit	SPOA0412	-2.6948606104475785	5.642779533844459				
+				Xanthine dehydrogenase family protein, large subunit	SPOA0414	-2.60024495855411	3.909280414149867				
+alcohol dehydrogenase (EC 1.1.1.1)	SPOA0430	2.346117560454433	4.69448754471019								
+3-carboxy-cis,cis-muconate cycloisomerase (EC 5.5.1.2)	SPOA0432	68.47301240762403	2.608155866716206								
+3-oxoadipate enol-lactone hydrolase (EC 3.1.1.24)	SPOA0434	3.207289254321818	3.0490977911580006								
+Enoyl-[acyl-carrier-protein] reductase [NADH] (EC 1.3.1.9)	SPOA0439	6.765298037092538	4.641591162153074								
