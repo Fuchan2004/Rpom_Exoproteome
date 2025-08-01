@@ -166,7 +166,7 @@ _Common Multiple Testing Correction Methods and when to use them_:
 To run pairwise statistics use the provided bash script `run_statistics.sh` from your terminal, indicating your preferred statistical test and multiple testing correction from the keywords above. In this study we used a Student's T-Test and Benjamini-Hochberg multiple testing correction:
 
 ```
-bash scripts/fragpipe/run_statistics.sh data/raw/ t-test fdr_bh
+bash scripts/fragpipe/run_statistics.sh data/proteomics/raw/ t-test fdr_bh
 ```
 
 Output files are saved in a new folder called `output/proteomics/` which is created upon running this code. 
