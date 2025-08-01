@@ -166,6 +166,7 @@ dependencies:
   - pillow=11.3.0=py39hfea3036_0
   - pip=25.1=pyhc872135_2
   - platformdirs=4.3.7=py39hca03da5_0
+  - plotly=6.0.1=py39hd096484_0
   - pluggy=1.5.0=py39hca03da5_0
   - ply=3.11=py39hca03da5_0
   - prometheus_client=0.21.1=py39hca03da5_0
