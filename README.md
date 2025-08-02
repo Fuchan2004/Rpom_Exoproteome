@@ -17,6 +17,8 @@ Funding for this project was provided from the Simons Foundation, and the NSF Ce
 ## Directory Structure
 
 - *data*: Folder containing folders with input files for the scripts used for data analysis
+    - *annotations*: Folder containing annotations file with Uniprot annotations matched to each accession number.
+        - DSS3_Uniprot.txt: annotations file with Uniprot annotations matched to each accession number
     - *growth_OD600*: Folder containing raw data files from OD600 measurements of *R.pomeroyi* DSS-3 cells grown in six different media conditions. Each file is named based on the media that the cells were grown in. ACD = AC Difco marine broth; ProMM = ProMM minimal medium; +Pr: addition of 87µM Casein to the medium; -N: No inorganic nitrogen (NH4Cl) added; -C: No carbon sources added.
         - ACD.txt
         - ProMM.txt
@@ -24,10 +26,42 @@ Funding for this project was provided from the Simons Foundation, and the NSF Ce
         - ProMM-N+C+Pr.txt
         - ProMM+N-C+Pr.txt
         - ProMM+Pr.txy
-    - *growth_FCM*: Folder containing raw data files from flow cytometry cell counts
-    - *protease_kinetics*: Folder containing files of fluorescence measurements of FTC-Casein fluorescence upon degradation of cellular proteases
-    - *proteomics*: Folder containing input files of normalized peak areas from after spectral processing in Fragpipe and file fomatting
+    - *growth_FCM*: Folder containing raw flow cytometry cell counts data file
+        - FCM_DSS3.txt
+    - *protease_kinetics*: Folder containing files of fluorescence measurements of FTC-Casein fluorescence vs. time. The fluorescence of FTC casein increases due to proteolytic digestion. We tested four media (ACD, ProMM, ProMM+Pr (PR), and ProMM-N+C+Pr (NC)). 'INTRA' denotes that the cells were not removed prior to fluorescence measurement, whereas for SEC the samples were sterile filtered prior to fluorescence measurements. 'PI' indicates that 1 mM serine protease inhibitor was added. 
+        - ACD_INTRA.txt
+        - ACD_INTRAPI.txt
+        - ACD_SEC.txt
+        - ACD_SECPI.txt
+        - BLANK.txt
+        - NC_INTRA.txt
+        - NC_INTRAPI.txt
+        - NC_SEC.txt
+        - NC_SECPI.txt
+        - PR_INTRA.txt
+        - PR_INTRAPI.txt
+        - PR_SEC.txt
+        - PR_SECPI.txt
+        - PROMM_INTRA.txt
+        - PROMM_INTRAPI.txt
+        - PROMM_SEC.txt
+        - PROMM_SECPI.txt
+    - *proteomics*: Folder containing folder with raw data files from proteomics
+        - *fragpipe*: raw fragpipe output files and metadata:
+            - DSS3_Sequence.txt: all protein sequences and annotations
+            - experiment_annotation.tsv: Annotation file for analysis in fragpipe-analyst
+            - report.pg_matrix: output file from fragpipe contianing proteins, annotations and normalized DIA peak areas. 
+        - *raw*: formatted raw files from proteomics containing normalized peak area for each triplicate proteome
+            - 20250315_DSS3_ProMM_ML.txt
+            - 20250315_DSS3_ProMM_ML_Sec.txt
+            - 20250315_DSS3_ProMM-N+C_ML.txt
+            - 20250315_DSS3_ProMM-N+C_ML_Sec.txt
+            - 20250315_DSS3_ProMM+Cas_ML.txt
 - *scripts*: Folder containing scripts used for the analysis of this dataset
+    - *fragpipe*: Folder containing scripts for differential abundance analysis (Volcano plotting)
+    - growth.ipynb
+    - proteasekinetics.ipynb
+    - NMDS_heatmap.ipynb
 - *figures*: Folder containing figures resulting from the analysis of this dataset using the workflow provided
 - environment.yml: File containing information about the python environment used for running this code
  
