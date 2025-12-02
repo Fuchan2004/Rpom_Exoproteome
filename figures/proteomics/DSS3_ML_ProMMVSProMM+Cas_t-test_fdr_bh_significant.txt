@@ -1,0 +1,167 @@
+Significant_Overexpressed	Accession Number +	log2FC +	-log10_adj_p +	Significant_Underexpressed	Accession Number -	log2FC -	-log10_adj_p -	Zero_Condition_Overexpressed	Accession Zero +	Zero_Condition_Underexpressed	Accession Zero -
+								Uncharacterized protein	SPO0646	DUF6468 domain-containing protein	SPO0201
+								Uncharacterized protein	SPO0647	DUF1153 domain-containing protein	SPO1678
+								Membrane protein	SPO0771	N-(5'-phosphoribosyl)anthranilate isomerase	SPO1778
+								Membrane protein, putative	SPO0889	Amino acid ABC transporter, permease protein	SPO2365
+								Branched-chain amino acid ABC transporter, ATP-binding protein	SPO1017	Flagellar hook-length control protein	SPO3462
+								Roadblock/LAMTOR2 domain-containing protein	SPO1067	Spermidine/putrescine ABC transporter, permease protein	SPOA0383
+								Tautomerase (EC 5.3.2.-)	SPO1193		
+								Membrane protein, putative	SPO1322		
+								Fumarylacetoacetate hydrolase family protein	SPO1600		
+								Branched-chain amino acid ABC transporter, permease protein	SPO1708		
+								Branched-chain amino acid ABC transporter, permease protein	SPO1833		
+								Sugar ABC transporter, permease protein	SPO1837		
+								Amidase	SPO1904		
+								Na(+)/H(+) antiporter-like protein	SPO2079		
+								Uncharacterized protein	SPO2269		
+								Na/Pi-cotransporter family protein	SPO2368		
+								Transthyretin/hydroxyisourate hydrolase domain-containing protein	SPO2386		
+								3-hydroxyisobutyrate dehydrogenase family protein	SPO2416		
+								Oxidoreductase, Gfo/Idh/MocA family	SPO2429		
+				Hpt domain protein	SPO0021	-2.7974091817814433	2.378223446759229	TRAP dicarboxylate transporter, DctM subunit	SPO2431		
+								Bcr/CflA family efflux transporter	SPO2445		
+								Malonate transporter, putative	SPO2744		
+								DUF3572 domain-containing protein	SPO2752		
+								Branched-chain amino acid ABC transporter, permease protein	SPO3709		
+								Sugar ABC transporter, ATP-binding protein	SPO3784		
+								Malonate transporter, putative	SPO3843		
+								Na(+)-translocating NADH-quinone reductase subunit E (Na(+)-NQR subunit E) (Na(+)-translocating NQR subunit E) (EC 7.2.1.1) (NQR complex subunit E) (NQR-1 subunit E)	SPOA0032		
+								Polar amino acid uptake family ABC transporter, permease protein	SPOA0070		
+								Thiolase family protein	SPOA0129		
+								Heme-copper respiratory oxidase family	SPOA0184		
+								Transcriptional regulator, GntR family	SPOA0199		
+								TRAP transporter large permease protein	SPOA0263		
+								PLA2c domain-containing protein	SPOA0337		
+				UPF0758 protein SPO0054	SPO0054	-3.459818392898791	3.019736490620263				
+				Competence protein F, putative	SPO0071	-2.2112873388098007	2.88491100757681				
+				histidine kinase (EC 2.7.13.3)	SPO0094	-2.58255707360316	3.769436053513635				
+				histidine kinase (EC 2.7.13.3)	SPO0132	-2.4916958396183975	2.009479410260796				
+				Oxidoreductase molybdopterin-binding domain-containing protein	SPO0162	-2.1519174201743883	2.2638212870889114				
+				Flagellar basal body-associated protein FliL	SPO0174	-3.906684692888871	2.0563646084667857				
+				Flagellar L-ring protein (Basal body L-ring protein)	SPO0175	-3.0720509246767604	2.966022265542202				
+				Flagellar hook protein FlgE	SPO0192	-4.334009173574801	3.207665919861213				
+				Flagellar motor switch protein FliN	SPO0197	-3.574553839350946	2.069881761562975				
+				Flagellar M-ring protein	SPO0199	-2.5813934655567476	2.1721960396651787				
+				Flagellar protein FliL	SPO0200	-4.182822354999856	4.046018198327273				
+				DUF6468 domain-containing protein	SPO0201	-64.98143734665567	2.0709125686967513				
+				Alanine dehydrogenase (EC 1.4.1.1)	SPO0222	-6.257281424563178	2.6197691804364194				
+PaxA, putative	SPO0227	3.1268676555221098	2.7734947748274412								
+				aldehyde dehydrogenase (NAD(+)) (EC 1.2.1.3)	SPO0235	-2.305841321996468	2.710535902534575				
+				Transmembrane amino acid efflux protein	SPO0290	-2.1885078110884173	2.5210884744261235				
+				Acyl-homoserine-lactone synthase (EC 2.3.1.184) (Autoinducer synthesis protein)	SPO0372	-2.1869972433206053	3.254798012413161				
+				Glutamate/leucine/phenylalanine/valine dehydrogenase family protein	SPO0390	-3.8579587710148298	3.1909861323331294				
+				Competence protein ComM	SPO0402	-2.2399800354568855	4.684357275118688				
+				Pectate lyase superfamily protein domain-containing protein	SPO0459	-3.378597209930959	3.14655601141485				
+				Diguanylate cyclase, putative	SPO0533	-3.576542799652705	3.2161353441613234				
+Uncharacterized protein	SPO0646	61.076740176860675	3.8953446767178974								
+Uncharacterized protein	SPO0647	62.01890140115253	3.010179079836351								
+HTH marR-type domain-containing protein	SPO0695	2.1513611679118063	2.8960385352661646								
+				Invasion protein IbeA	SPO0708	-3.4600802335305647	3.334478899865958				
+Membrane protein	SPO0771	61.959500565900285	3.3576056975331596								
+				Metallo-beta-lactamase family protein	SPO0788	-2.323737601410754	3.2987103187705995				
+Membrane protein, putative	SPO0889	64.31058212762949	2.1996481561030636								
+				Response regulator	SPO0931	-4.48128978823145	2.8898044029000225				
+				Regulatory protein SoxS	SPO0990	-3.4288162929907116	3.524238950279984				
+				Sulfur oxidation molybdopterin C protein	SPO0998	-3.210567516098705	2.6075582770472683				
+Branched-chain amino acid ABC transporter, ATP-binding protein	SPO1017	63.57205177445966	3.665501768218597								
+Roadblock/LAMTOR2 domain-containing protein	SPO1067	61.88508267688516	2.1928259463305366								
+				Putative hydro-lyase SPO1111 (EC 4.2.1.-)	SPO1111	-2.157751305538318	3.2298491324099983				
+				TRAP transporter, periplasmic protein	SPO1112	-3.217086695697883	3.374193548412164				
+				DUF2848 domain-containing protein	SPO1115	-2.4795297423125464	2.29767194030226				
+Cell division protein FtsL	SPO1180	2.8706388091547645	4.682391163835961								
+Penicillin-binding protein	SPO1181	2.2440859714480186	3.7905970752574967								
+Tautomerase (EC 5.3.2.-)	SPO1193	62.138606189276715	2.5342548592640624								
+Cell division protein FtsQ	SPO1202	2.063074144861695	5.131960366586458								
+				Transcriptional regulator, MarR family	SPO1267	-3.005548675792023	2.9146191632654914				
+Membrane protein, putative	SPO1322	62.18786926366721	2.6046607554335908								
+				O-succinylhomoserine sulfhydrylase (OSH sulfhydrylase) (OSHS sulfhydrylase) (EC 2.5.1.-)	SPO1351	-2.9653717592703375	3.417958384896471				
+Transcriptional regulator, LuxR family/hydrolase, alpha/beta fold family	SPO1388	2.2926244685210673	3.743108014478761								
+				Indole acetamide hydrolase (EC 3.5.1.-)	SPO1489	-2.7421507304284463	2.3846170853668243				
+				Regulatory protein, putative	SPO1490	-2.4861557402198127	2.803858692161666				
+Quinoprotein ethanol dehydrogenase (EC 1.1.99.-)	SPO1508	2.8140232257748	3.7002215952025264								
+Carbon monoxide dehydrogenase, large subunit (EC 1.2.99.2)	SPO1519	2.1060013538568887	3.8588296696973705								
+Fumarylacetoacetate hydrolase family protein	SPO1600	62.04118676425023	3.067518648864107								
+				DUF1153 domain-containing protein	SPO1678	-65.62623084403255	3.564211588613008				
+				DNA-binding response regulator CtrA	SPO1679	-2.0255148264939886	2.003430208391655				
+Branched-chain amino acid ABC transporter, permease protein	SPO1708	60.711021831714305	2.0634948729885143								
+				Branched-chain amino acid ABC transporter, permease protein	SPO1709	-2.1077339740421177	2.2503432142241535				
+Dehalogenase, putative	SPO1738	2.0339427785219826	3.0730819382264496								
+				N-(5'-phosphoribosyl)anthranilate isomerase	SPO1778	-62.21483953232608	2.4373089148899667				
+Formate dehydrogenase, iron-sulfur subunit, putative	SPO1795	2.0459182249042196	2.884926406583803								
+Formate dehydrogenase, alpha subunit, putative	SPO1796	2.4128582045925344	4.066878041563854								
+Branched-chain amino acid ABC transporter, permease protein	SPO1833	62.565792619302705	2.2571231621460095								
+Sugar ABC transporter, permease protein	SPO1837	61.76026345249188	2.260682996304295								
+				Virulence factor domain-containing protein	SPO1861	-3.308715578777414	2.6540429964536356				
+				MetFprotein-like protein	SPO1862	-3.3038465040047	3.4275012078366007				
+				Pterin-binding enzyme domain protein	SPO1863	-2.81660299885962	3.417080462937379				
+Amidase	SPO1904	61.03740982645549	2.5652920132072445								
+Na(+)/H(+) antiporter-like protein	SPO2079	62.35688950720399	3.738591383055591								
+				DUF6456 domain-containing protein	SPO2106	-3.5621625658429945	2.9618479840268774				
+				Methyltransferase (EC 2.1.1.-)	SPO2108	-3.335675939734321	3.21640370450373				
+				Competence protein	SPO2155	-2.9292172042294204	3.731293323506657				
+				Host specificity protein	SPO2250	-2.6699028701454397	3.8886776184972134				
+				Major tail protein, TP901-1 family	SPO2257	-3.146224881473261	3.769436053513635				
+				Head-tail adaptor, putative	SPO2259	-3.266357211801255	2.0876576891386738				
+				Major capsid protein, HK97 family	SPO2261	-3.971056762867956	2.21714820381946				
+				Phage prohead protease, HK97 family	SPO2262	-2.452479760908079	2.618003050462576				
+				Portal protein, HK97 family	SPO2264	-4.2342641899982745	2.741492892320612				
+Uncharacterized protein	SPO2269	61.89254794645296	3.415219834875063								
+				ABM domain-containing protein	SPO2313	-2.534568482703027	3.1597546606416427				
+				Amino acid ABC transporter, periplasmic amino acid-binding protein	SPO2364	-5.685061209759434	2.8419769247899738				
+				Amino acid ABC transporter, permease protein	SPO2365	-65.74494703064562	3.5495842536182556				
+				Amino acid ABC transporter, ATP-binding protein	SPO2367	-3.5915448415756575	3.281012290557591				
+Na/Pi-cotransporter family protein	SPO2368	66.05267302679027	3.3576056975331596								
+				Universal stress protein family protein	SPO2371	-2.3851219213745565	2.548683638551046				
+Transthyretin/hydroxyisourate hydrolase domain-containing protein	SPO2386	61.73720269755832	3.229775971300217								
+3-hydroxyisobutyrate dehydrogenase family protein	SPO2416	61.069269545534986	2.0876576891386738								
+Oxidoreductase, Gfo/Idh/MocA family	SPO2429	62.34748770652381	2.4067151706996186								
+TRAP dicarboxylate transporter, DctM subunit	SPO2431	62.38404255427616	3.3877341781564527								
+Bcr/CflA family efflux transporter	SPO2445	61.1136298720026	2.1051861339300597								
+				Lipoprotein, putative	SPO2476	-2.214582910144829	3.1041811183308345				
+				Membrane protein, putative	SPO2507	-2.352693855396146	2.687096914737455				
+				RND efflux pump membrane fusion protein barrel-sandwich domain-containing protein	SPO2718	-2.039702309131086	2.004425330171718				
+Malonate transporter, putative	SPO2744	61.1986823311834	2.487772950022596								
+DUF3572 domain-containing protein	SPO2752	64.51408448877183	3.0483163440825187								
+				diguanylate cyclase (EC 2.7.7.65)	SPO2753	-2.0764692613083553	4.43605899073702				
+NADH dehydrogenase I, M subunit (EC 1.6.5.11)	SPO2764	2.3024757322211897	3.524238950279984								
+NADH-quinone oxidoreductase subunit A (EC 7.1.1.-) (NADH dehydrogenase I subunit A) (NDH-1 subunit A) (NUO1)	SPO2786	2.0254409521202175	2.913199814993255								
+				Cobalt transporter, subunit CbtB	SPO2875	-3.448639038379825	3.1323605482008614				
+				DUF4399 domain-containing protein	SPO2877	-2.4405725913859815	2.6251446454054994				
+				X-Pro dipeptidyl-peptidase family protein	SPO2994	-2.773573453374911	3.1597546606416427				
+				Methylenetetrahydrofolate reductase (EC 1.5.1.54)	SPO3016	-3.0642394850390864	2.658979779640549				
+Glyoxalase family protein	SPO3081	2.1103471558631823	2.6373285864992333								
+				Lipoprotein, putative	SPO3229	-2.694539918563343	2.989096302799616				
+				Globin domain protein	SPO3329	-3.624816894461015	2.9086052258246085				
+				Anti-sigma factor antagonist	SPO3409	-4.126786224811461	2.1305070806093456				
+				non-specific serine/threonine protein kinase (EC 2.7.11.1)	SPO3410	-2.4085030593224412	2.8862380084499257				
+Unknown	SPO3452a	4.971582046795802	2.7859266410461765								
+				Flagellin	SPO3459	-6.369719830573294	3.234059078278571				
+				Flagellar hook-length control protein	SPO3462	-62.85478941803866	2.14775811937549				
+				Uncharacterized protein	SPO3547	-4.869085688088355	2.133366109781873				
+				EBNA-1 nuclear protein	SPO3607	-5.476676732054013	5.194633625036837				
+Cold shock protein CspA	SPO3625	2.058343986230805	3.404676720753341								
+Branched-chain amino acid ABC transporter, permease protein	SPO3709	62.3033456360471	3.874925667552698								
+				Uncharacterized protein	SPO3714	-2.204501988912326	2.6171903718659633				
+Sugar ABC transporter, ATP-binding protein	SPO3784	61.919414320161025	2.3394888585506424								
+				Sugar ABC transporter, periplasmic sugar-binding protein	SPO3787	-3.377604070519023	3.738591383055591				
+Malonate transporter, putative	SPO3843	63.48542449748932	3.903840495808807								
+Uncharacterized protein	SPOA0003	2.0492466832676506	3.3521424108877147								
+Na(+)-translocating NADH-quinone reductase subunit E (Na(+)-NQR subunit E) (Na(+)-translocating NQR subunit E) (EC 7.2.1.1) (NQR complex subunit E) (NQR-1 subunit E)	SPOA0032	61.334790855856305	2.676140443154501								
+				Protocatechuate 3,4-dioxygenase alpha subunit (EC 1.13.11.3)	SPOA0043	-2.090132035987323	2.6716652544182993				
+				4-carboxymuconolactone decarboxylase (EC 4.1.1.44)	SPOA0045	-2.3520329535643243	2.7042209038803833				
+				4-hydroxybenzoate hydroxylase (EC 1.14.13.2)	SPOA0046	-2.40558384251234	3.9208710703710814				
+Polar amino acid uptake family ABC transporter, permease protein	SPOA0070	63.47990956153564	4.046018198327273								
+Thiolase family protein	SPOA0129	61.95490845662009	3.769436053513635								
+				Uncharacterized protein	SPOA0153	-2.2657859447527864	2.260682996304295				
+Heme-copper respiratory oxidase family	SPOA0184	60.63358757326168	3.665501768218597								
+Transcriptional regulator, GntR family	SPOA0199	61.5772708359592	4.046018198327273								
+TRAP transporter large permease protein	SPOA0263	61.52315450954613	3.755670127915252								
+Dihydroxydipicolinate synthase family protein	SPOA0267	2.296871622376216	3.0011784545998323								
+PLA2c domain-containing protein	SPOA0337	62.44719296773875	3.686009598536522								
+HAD-superfamily hydrolase, subfamily IB	SPOA0339	4.5921440527845165	3.036865422865771								
+A-factor biosynthesis hotdog domain-containing protein	SPOA0342	5.655590701475487	2.2424611024996124								
+EthD domain-containing protein	SPOA0343	4.810347299570151	2.771766317226179								
+Oxidoreductase, aldo/keto reductase family	SPOA0345	2.935939128119017	3.126694979841848								
+Carboxymuconolactone decarboxylase family protein	SPOA0346	4.432590392951513	3.470241030655143								
+Membrane protein, putative	SPOA0347	3.739543492123737	4.066878041563854								
+				Spermidine/putrescine ABC transporter, permease protein	SPOA0383	-63.2140068273464	3.595343796693326				
