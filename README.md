@@ -214,11 +214,6 @@ bash scripts/fragpipe/run_volcano_list.sh output/proteomics/
 
 The volcano plots will be saved both as *.pdf as well as *.html files into the `figures/proteomics/` folder. The html files are interactive versions of the volcano plots which allow you to hover over the datapoints and see annotations.
 
-### Abundance Comparisons 
-
-### Heatmaps
-
-### NMDS
-
-### Normalized peak area - Bar plots
+### NMDS, Heatmaps, and Bar plots
+Finally you can follow instructions in the jupyter notebook `scripts/proteomes_NMDS_heatmaps.ipynb` to make NMDS, heatmaps, and bar plot figures shown in this publication. The figures will be saved with the respective suselection of samples and/or SPO Identifyer (protein ID) in the respective subfolder in `figures/proteomics/`. 
 
