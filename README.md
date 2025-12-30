@@ -2,7 +2,7 @@
 
 This repository contains information, metadata, and analysis steps for the Master Thesis / Publication by Stemmer, F. (2025), "The Exo-proteomic Framework for Nitrogen Acquisition from Proteinaceous Organic Matter in the Model Marine Heterotroph *Ruegeria Pomeroyi* DSS-3". 
 
-*Last updated*: 07/31/2025
+*Last updated*: 12/30/2025
 
 *Corresponding Author*: Fadime R. Stemmer (fstemmer@mit.edu)
 
