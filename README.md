@@ -78,7 +78,7 @@ This section will mainly focus on the computational analysis conducted in this s
 All code is written in python. First open terminal and clone this repository. 
 1. Move to the repository in terminal and create the python environment from the envs.yml file
 ```
-conda create -f environment.yml
+conda env create -f environment.yml
 ```
 2. The name of the just created environment is `exoprot`. Activate the environment
 ```
